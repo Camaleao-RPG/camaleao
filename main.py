@@ -15,7 +15,7 @@ def format_prob_pair(prob_ge: float, prob_eq: float) -> str:
     eq_fmt = f"{(prob_eq * 100):05.2f}"
     if ge_fmt == "00.00" and eq_fmt == "00.00":
         return ""
-    return f"{ge_fmt}% ({eq_fmt}%)"
+    return f"{ge_fmt} ({eq_fmt})"
 
 
 def probs(dt: int) -> Tuple[float, float, float, float]:
@@ -74,9 +74,9 @@ def gerar_csv_blocos_verticais(
     # Linha 1: rótulos dos blocos
     header1 = (
         ["", "", "Número de sucessos"]
-        + [""] * (k_max - 1)
+        + [""] * (k_max)
         + ["Número de sucessos"]
-        + [""] * (k_max - 1)
+        + [""] * (k_max)
     )
     # Linha 2: nomes das colunas
     rot_k = [f"≥{k} (={k})" for k in range(1, k_max + 1)]
