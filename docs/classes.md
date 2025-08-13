@@ -41,6 +41,28 @@ Para diversificar a classe de combatente e tentar deixar ela menos "ovô gastar 
 * **Ataque Especial:** você pode montar um ataque com alguns efeitos especiais que aumentam ou reduzem seu custo de PD. O custo mínimo de um ataque especial é 1 PD. Cada ataque especial pertence a uma arma específica. Ao subir de nível, você pode redefinir seus ataques especiais
 * **Perícias:** mais uma perícia pois 1 + INT para uma classe que, tendencialmente, não vai ter muitas perícias é sacanagem
 
+| Nome                      |       Custo (PD) | Efeito                                                                                                             |
+| ------------------------- | ---------------: | ------------------------------------------------------------------------------------------------------------------ |
+| Amplo                     |                3 | Atinge todas as criaturas em alcance curto (incluindo aliados).                                                    |
+| Atordoante                |                2 | Criatura que sofra dano fica atordoada por 1 rodada. DT Fortitude: 1 sucesso — desprevenido; 2 sucessos — anula.   |
+| Brutal                    |                1 | Dado extra de dano do mesmo tipo.                                                                                  |
+| Conjurador\*              | custo ritual + 1 | Escolha um ritual; causa o efeito do ritual. Não pode ser combinado com outros efeitos; requer consulta ao mestre. |
+| Destruidor                |                2 | +1 (dado com +1 passo) em caso de crítico.                                                                         |
+| Distante                  |                1 | Aumenta o alcance em um passo.                                                                                     |
+| Flamejante, Elétrico, ... |                2 | +2d6 do tipo escolhido.                                                                                            |
+| Impactante                |                1 | Meio alcance curto por cada 10 de dano.                                                                            |
+| Letal                     |                2 | Aumenta a margem de ameaça em 1 (por vez escolhida).                                                               |
+| Penetrante                |                1 | Ignora Redução de Dano (RD).                                                                                       |
+| Preciso                   |                1 | Vantagem no ataque.                                                                                                |
+| Qualquer Arma             |                1 | Permite usar qualquer tipo de arma.                                                                                |
+| Ricocheteante             |                1 | Arma volta para você após o ataque — apenas armas de arremesso.                                                    |
+| Teleguiado                |                1 | Ignora penalidade por distância e efeitos de cobertura.                                                            |
+| Lento                     |               −2 | Requer 3 ações para ser usado.                                                                                     |
+| Perto da Morte            |               −2 | Só pode ser usado com alvo com até 1/4 dos PV.                                                                     |
+| Sacrifício                |               −2 | Sempre que usado, o utilizador perde 10 PV.                                                                        |
+| Vingança                  |               −2 | Só pode ser usado 1 vez contra inimigos que causaram mais da metade dos seus PV (ou dos PV de aliados) em dano.    |
+
+\* **Conjurador**: custo total = (custo do ritual) + 1 PD. Deve ser discutido/validado com o mestre; não é combinável com outros efeitos.
 ---
 
 ## Especialista
