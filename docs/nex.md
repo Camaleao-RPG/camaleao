@@ -11,18 +11,18 @@ Foi adicionado uma nova progressão de personagem baseada em NEx.
 | 10    | Cicatrizado                                 | --              |
 | 15    | Poder de NEx                                | -2 PD           |
 | 20    | Afinidade                                   | --              |
-| 25    | Poder de NEx, Treinamento ou +1 Ocultismo   | -2 em perícia   |
+| 25    | Poder de NEx, Treinamento ou +1 Ocultismo   | -2 em perícia social |
 | 30    | Poder de NEx                                | --              |
 | 35    | Monstruoso I                                | --              |
 | 40    | Afinidade                                   | --              |
-| 45    | Poder de NEx                                | -2 em perícia   |
+| 45    | Poder de NEx                                | -2 em perícia resistência |
 | 50    | Monstruoso II                               | --              |
 | 55    | Poder de NEx                                | -10 PV          |
 | 60    | Afinidade, Alteração Elemental I            | -7 PD           |
 | 65    | Monstruoso III                              | --              |
 | 70    | Poder de NEx                                | -4 ou -2 x2     |
 | 75    | Poder de NEx, Alteração Elemental II        | --              |
-| 80    | Afinidade, Poder de NEx                     | -15 PV e -10 PD |
+| 80    | Afinidade, Poder de NEx                     | -15 PV e -10 PD           |
 | 85    | Monstruoso IV                               | --              |
 | 90    | Poder de NEx, Alteração Elemental III       | --              |
 | 95    | Poder de NEx                                | -1 atributo     |
