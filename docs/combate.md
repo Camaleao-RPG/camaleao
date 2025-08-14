@@ -21,7 +21,7 @@ Antes de começar o combate, algumas etapas precisam ser concluídas:
     * Jogadores procuram seus d20s que, religiosamente, nunca estão com eles. Um combate para conseguir reunir os d20s necessários se inicia.
     * Rolam, escolhem o maior, somam bônus e anunciam seus resultados como leilão.
     * Mestre rola a presença perturbadora da criatura e anuncia: "Quem tirou abaixo de DT perde X PD, quem tirou de DT pra cima perde metade".
-    * Surgem perguntas e exclamações de sempre. O combate questiona, indignado: “X de PD???”, o mais desligado, que sempre faz a mesma pergunta não importa quanto tempo de jogo: “Arredonda pra baixo?”.
+    * Surgem perguntas e exclamações de sempre. O combatente questiona, indignado: “X de PD???”, o mais desligado, que sempre faz a mesma pergunta não importa quanto tempo de jogo: “Arredonda pra baixo?”.
 
 Os jogadores diminuem o PD nas suas fichas e passamos para a próxima etapa
 
@@ -53,7 +53,7 @@ Ao invés de pensar em 1 ação padrão, 1 ação de movimento, 1 reação e aç
 
 #### Ataques
 
-Ataques com qualquer tipo de arma ou equipamento, com a intençãod e causar dano à ameaça. Da mesma forma que o teste de iniciativa é uma etapa adicional que apenas consome tempo e quebra imerção, rolar um teste de ataque para ver se o jogador irá conseguir ou não atingir uma criatura é uma etapa pedante e frustrante, fora que pedir o mesmo teste repetidas vezes é pedir para o jogador falhar em algum momento.
+Ataques com qualquer tipo de arma ou equipamento, com a intenção de causar dano à ameaça. Da mesma forma que o teste de iniciativa é uma etapa adicional que apenas consome tempo e quebra imerção, rolar um teste de ataque para ver se o jogador irá conseguir ou não atingir uma criatura é uma etapa pedante e frustrante, fora que pedir o mesmo teste repetidas vezes é pedir para o jogador falhar em algum momento.
 
 Deixe o dado de dano decidir o que acontece:
 * **1** -> ataque erra
@@ -61,11 +61,11 @@ Deixe o dado de dano decidir o que acontece:
 
 Acertos críticos são explosivos, ou seja, enquanto continuar tirando o resultado máximo do dado, você continua rolando dados extras.
 
-No caso de múltiplos dados, o primeiro dado decide o resultado e apenas ele pode ser explodir. *(Ex.: ao rolar 2d6 de dano, rola-se 1d6 e, no caso de 1, o ataque erra. No caso de 6, mais um dado é rolado e enquanto esse, e apenas esse, continuar resultando no valor máximo ele é explodido. No primeiro valor não máximo, o outro d6 restante é rolado e, mesmo que ele resultar em 6, não é contabilizado um acerto crítico)
+No caso de múltiplos dados, o primeiro dado decide o resultado e apenas ele pode explodir. *(Ex.: ao rolar 2d6 de dano, rola-se 1d6 e, no caso de 1, o ataque erra. No caso de 6, mais um dado é rolado e enquanto esse, e apenas esse, continuar resultando em 6, explode. No primeiro valor diferente de 6 (1, 2, 3, 4 ou 5), o outro d6 restante é rolado e, mesmo que ele resultar em 6, não é contabilizado um acerto crítico)
 
 Na dúvida, siga a segra: o que não erra, não crita.
 
-Além disso, a escolha de qual arma usar não vai se traduzir sempre em pegar o maior número de dados ou o maior dado. Armas como adaga são, literalmente, facas de dois gumes: erram em 25% dos casos, mas em 25% dos casos critam, e dano crítico é especialmente bom para criaturas com armadura pesadas.
+Além disso, a escolha de qual arma usar não vai se traduzir sempre em pegar o maior número de dados ou o maior dado. Armas como adaga são, literalmente, facas de dois gumes: erram em 25% dos casos, mas em 25% dos casos critam, e dano crítico é especialmente bom para criaturas com armadura pesada.
 
 Dessa forma, múltiplos ataques em um só turno são previstos. Para cada ataque adicional no mesmo turno, uma desvantagem é aplicada.
 
