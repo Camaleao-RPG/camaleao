@@ -100,7 +100,8 @@ Gastando **3 PD**, encara uma criatura paranormal e recebe **+2** em testes cont
 
 ### Olhar Sinistro
 
-Impõe sua própria vontade: pode usar **PRE** no lugar de **INT** para testes de Ocultismo e pode coagir.
+Impõe sua própria vontade: pode usar **PRE** no lugar de **INT** para testes de Ocultismo e pode coagir. Também substitui INT por PRE no cálculo de limite de rituais (por exemplo, INT x 3 vira PRE x 3)
+
 
 ---
 
@@ -162,7 +163,7 @@ Pode conjurar rituais sem componentes ritualísticos e possui vantagem no teste 
 
 ### Transcender
 
-Ao transcender, você pode pegar um poder paranormal.
+Ao transcender, você pode pegar um poder paranormal, você também pode **Aprender Rituais**. Nesse caso, o limite de INT x 3 rituais se aplica aqui também, para todas as classes. Ocultistas que quiserem aprender rituais assim, ganham também 3 rituais. Os círculos de rituais seguem de acordo com a progressão de Escolhido do Outro Lado (2º círculo a partir de NEx 25%, etc)
 
 ---
 
