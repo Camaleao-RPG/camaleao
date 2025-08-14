@@ -93,7 +93,8 @@ Foi adicionado um poder para, ao transcender, perder menos PD
 Personagens  ocultistas ainda começam com 3 rituais por causa da habilidade Escolhido do Outro Lado, mas não ganham novos rituais a cada nível/ NEx. Ao invés disso, para ganhar novos rituais, devem escolher o poder de classe Aprender rituais ou o poder de NEx Transcender. Também podem ganhar rituais por habilidades específicas (de trilha, de NEx… etc)
 
 * **Aprender Rituais:** aprende 3 rituais mas sofrer uma penalidade (tabela - 1d6):
-| Dado | Efeito
+
+| Dado | Penalidade
 | ---- | --------------------------------------------------------------- |
 | 1    | -PD iguais a soma das categorias de todos os rituais aprendidos |
 | 2    | ⁠-PD igual a ritual aprendido de maior categoria                 |
