@@ -30,7 +30,7 @@ Foi adicionado uma nova progressão de personagem baseada em NEx.
 
 ### Afinidade
 
-A afinidade agora é medida em estágios e é usada como pré-requisito para alguns poderes.
+A afinidade agora é medida em estágios e é usada como pré-requisito para alguns poderes. Afinidade I te dá Vulnerabilidade I e Afinidade II te dá Vulnerabilidade II. Em afinidade II, você não precisa de componentes pra conjurar rituais desse elemento e ganha +1d20 no teste de Ocultismo.
 
 ### Vulnerabilidade
 
