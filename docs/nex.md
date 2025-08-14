@@ -10,19 +10,19 @@ Foi adicionado uma nova progressão de personagem baseada em NEx.
 | 5     | Estágio IV Sobrevivente                     | --              |
 | 10    | Cicatrizado                                 | --              |
 | 15    | Poder de NEx                                | -2 PD           |
-| 20    | Afinidade ou Repulsa                        | --              |
+| 20    | Afinidade                                   | --              |
 | 25    | Poder de NEx, Treinamento ou +1 Ocultismo   | -2 em perícia   |
 | 30    | Poder de NEx                                | --              |
 | 35    | Monstruoso I                                | --              |
-| 40    | Afinidade ou Repulsa                        | --              |
+| 40    | Afinidade                                   | --              |
 | 45    | Poder de NEx                                | -2 em perícia   |
 | 50    | Monstruoso II                               | --              |
 | 55    | Poder de NEx                                | -10 PV          |
-| 60    | Afinidade ou Repulsa, Alteração Elemental I | -7 PD           |
+| 60    | Afinidade, Alteração Elemental I            | -7 PD           |
 | 65    | Monstruoso III                              | --              |
 | 70    | Poder de NEx                                | -4 ou -2 x2     |
 | 75    | Poder de NEx, Alteração Elemental II        | --              |
-| 80    | Afinidade ou Repulsa, Poder de NEx          | -15 PV e -10 PD |
+| 80    | Afinidade, Poder de NEx                     | -15 PV e -10 PD |
 | 85    | Monstruoso IV                               | --              |
 | 90    | Poder de NEx, Alteração Elemental III       | --              |
 | 95    | Poder de NEx                                | -1 atributo     |
@@ -82,7 +82,7 @@ Recebe **+2** em **Enganação** e **Intimidação** contra pessoas não treinad
 
 ### Intuição Paranormal
 
-Facilita investigações e concede **+INT** ou **+PRE** (à escolha).
+1 vez por cena de investigação, pode substituir teste de investigação por um teste de ocultismo (à escolha).
 
 ---
 
@@ -124,7 +124,7 @@ Gastando **2 PD**, deixa o paranormal fluir: recebe **+1d20** em **Acrobacia**, 
 
 ### Ele me Ensina
 
-Permite transcender ou adquirir o **primeiro poder de Ocultista** que não seja o seu.
+Permite transcender ou adquirir o **primeiro poder de trilha de Ocultista** que não seja o seu.
 
 ---
 
@@ -170,6 +170,6 @@ Ao transcender, você pode pegar um poder paranormal.
 
 Pode pegar alguma maldição do livro, balanceamento a ser feito conforme escolha do jogador.
 
-*Pré-requisito:* Afinidade I com o elemento
+*Pré-requisito:* Afinidade II com o elemento
 
 ---

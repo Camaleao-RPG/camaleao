@@ -76,7 +76,9 @@ Tendo em vista as mudanças no sistema de rolagem de dados, fizemos algumas alte
 
 ## Ocultista
 
-A habilidade "escolhido pelo outro lado" progride com base no NEx, não no nível. Considere cada nível como 5% de NEx. Se um ocultista escolher o poder paranormal de aprender um ritual, ele aprende 3 rituais, na verdade.
+A habilidade "escolhido pelo outro lado" progride com base no NEx, não no nível, para desbloquear novos círculos de rituais. O poder de NEx transcender, para ocultistas, é um poder de classe e, ao invés de aprender 1 ritual, aprendem 3 (ainda contam no limite de rituais).
+
+Foi adicionado um poder para, ao transcender, perder menos PD
 
 ---
 

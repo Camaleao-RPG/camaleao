@@ -68,15 +68,15 @@ Ao rolar cada dado individualmente, temos 4 possíveis resultados:
 
 Ações em conjunto, no sistema atual, é quase inútil. Somar o resultado / 10 de bônus, na maioria dos casos, vai resultar em um +2. Quando comparamos que um grau de treinamento é +5, uma vestimenta já é +2, uma vestimenta aprimorada é +5, é mais produtivo cada um dos agentes realizar um teste separado com seus respectivos bônus acumulados do que tentar realizar alguma ação em conjunto.
 
-No novo sistema, quando agentes realizam ações em conjunto:
+No novo sistema, quando agentes realizam ações em conjunto, para cada agente ajudando:
 
-1. **Diminua a DT em 2**.
-2. **Aumente o número de sucessos necessários** (representando esforço coletivo)
+1. **Diminua a DT em 2, caso o agente seja treinado/conheça o ritual, ou em 1, caso contrário**.
+2. **Aumente o número de sucessos necessários em 1**
 
 Exemplo:
 
-* 1 agente solo: DT 18, objetivo de 1 sucesso, com 2–3 dados → **26% a 36% de chance de sucesso**.
-* 3 agentes juntos: DT 14, objetivo de 3 sucessos, 3 agentes com 2–3 dados → **38% a 62% de chance**.
+* 1 agente solo treinado: DT 18, objetivo de 1 sucesso, com 2–3 dados → **26% a 36% de chance de sucesso**.
+* 3 agentes juntos, 2 treinados e 1 não: DT 15, objetivo de 3 sucessos, 3 agentes com 2–3 dados → **31% a 52% de chance**.
 
 Isso é coerente, pois:
 

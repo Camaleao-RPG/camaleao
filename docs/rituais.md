@@ -70,4 +70,9 @@ O custo do ritual se mantém o mesmo para cada um envolvido e as penalidades de 
 
 ### Elemento Opressor
 
-Efeitos paranormais de um elemento opressor contra criaturas que possuem Vulnerabilidade II ou maior aplicam **desvantagem** no teste de resistência do alvo _(isso já garante dano aumentado e condições extras; removemos o multiplicador de dano x2 para evitar exageros e balancear com os danos normais , ou seja, não paranormais, como balístico, corte, impacto, perfuração e afins — exemplo: Eletrocussão Discente, que poderia causar 6d6×2 + vulnerável a Morte, é too much)._
+Efeitos paranormais de um elemento opressor contra criaturas que possuem Vulnerabilidade II ou maior aplicam **desvantagem** no teste de resistência do alvo _(isso já garante dano aumentado e condições extras; removemos o multiplicador de dano x2 para evitar exageros e balancear com os danos normais , ou seja, não paranormais, como balístico, corte, impacto, perfuração e afins — exemplo: Eletrocussão Discente, que poderia causar 6d6×2 + vulnerável contra Morte, é too much)._
+
+### Outras Regras Especiais
+
+* Ao conjurar um ritual, o agente pode escolher consumir por completo o componente ritualístico e ganhar vantagem no teste, sendo necessária a sua reposição.
+* O limite de rituais que alguém pode aprender é 3 * INT.
