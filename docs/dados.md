@@ -86,3 +86,5 @@ Isso é coerente, pois:
 Não é considerado bônus dos personagens no cálculo da DT de referência para um teste pois personagens especializados devem, sim, ter mais chances de passar do que personagens não especializados. Isso recompensa os personagens, mas de uma forma equilibrada, a procurar treinamentos ou outras formas de bônus, pois possuem mais chances do que um agente que só irá rolar os dados, sem somar nada.
 
 O ponto todo é o equilíbrio. Um bônus simples, de +1 ou +2, não desequilibra completamente as probabilidades de sucesso, como acontece no sistema atual, em que um **treinamento básico** para um **agente um pouco acima da média** se traduz em **mais de 40%** de aumento na chance de passar em testes **muito difíceis** (9,75% -> 51%).
+
+# TODO: Colocar uma tabela com DTs de referência, assim como é feito no livro, e explicar como pensar nas próprias DTs. 
