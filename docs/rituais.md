@@ -57,6 +57,9 @@ O(s) conjurador(es) realizam um teste de **Ocultismo** contra a DT do ritual e, 
 
 O(s) alvo(s) realizam um teste de resistência (Reflexos, Fortitude ou Vontade) contra a DT do ritual e os efeitos no caso de **falha** ou **sucesso** seguem a descrição do ritual (em geral, o efeito é parcial: metade do dano e sem condições adicionais)
 
+### Gastar componente
+Um personagem pode escolher gastar seu componente ritualístico para receber mais um dado no teste
+
 ### Conjuração Conjunta
 
 Essas mudanças, principalmente a acima, prevê rituais que são muito difíceis de serem conjurados sozinhos, o que:
@@ -67,6 +70,11 @@ Essas mudanças, principalmente a acima, prevê rituais que são muito difíceis
 No segundo caso, as ações são dividas igualmente entre os jogadores, arredondando para cima, e a DT e o número de sucessos necessários seguem a lógica de [Ajuda](/-RAAzqL2Q-63gMD-OC69vg). Em conjunto, devem somar o número de sucessos exigido pelo ritual. _(Ex.: ritual de 4º círculo prevê DT 21, 4 sucessos, 4 ações. Assim, com 3 ocultistas juntos, a DT seria 17 e os sucessos necessários 6, ou seja, cada um gastaria 2 ações e precisaria de 2 sucessos)_.
 
 O custo do ritual se mantém o mesmo para cada um envolvido e as penalidades de PD extras também são aplicadas a todos.
+
+Quaisquer personagens treinados em Ocultismo podem ajudar em conjuração, porém: 
+* Personagens não Ocultistas ajudando na conjuração de um ritual não saibam ritual sofrem -2 dados no teste
+* Personagens Ocultistas que não saibam o ritual OU personagens não ocultistas que saibam o ritual sofrem -1 dado no teste
+* Personagens Ocultistas que saibam o ritual não tem penalidade
 
 ### Elemento Opressor
 
