@@ -163,7 +163,7 @@ Pode conjurar rituais sem componentes ritualísticos e possui vantagem no teste 
 
 ### Transcender
 
-Ao transcender, você pode pegar um poder paranormal, você também pode **Aprender Rituais**. Nesse caso, o limite de INT x 3 rituais se aplica aqui também, para todas as classes. Ocultistas que quiserem aprender rituais assim, ganham também 3 rituais. Os círculos de rituais seguem de acordo com a progressão de Escolhido do Outro Lado (2º círculo a partir de NEx 25%, etc)
+Ao transcender, você pode pegar um poder paranormal, você também pode **Aprender Rituais**. Nesse caso, o limite de INT x 3 rituais se aplica aqui também, para todas as classes. Ocultistas que quiserem aprender rituais assim, ganham também 3 rituais. Os círculos de rituais seguem de acordo com a progressão de Escolhido do Outro Lado (2º círculo a partir de NEx 20%, etc)
 
 ---
 
