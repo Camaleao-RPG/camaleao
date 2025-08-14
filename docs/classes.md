@@ -4,9 +4,9 @@ De maneira geral, é mantido o esqueleto das 3 classes principais: Combatente, E
 
 Em geral, a nova evolução de classes segue esse padrão:
 * Um poder de classe ou geral a cada evolução de nível
-* Habilidades específicas de classe nos níveis 1, 4, 9, 14, 19
-* Desbloqueia poderes de trilha nos níveis 2, 7, 11, 15, 19
-* Versatilidade nos níveis 9, 12 e 17 *(não precisam seguir a mesma trilha, desde que não haja uma dependência do 2º poder para o 1º poder de uma mesma trilha)*
+* Habilidades específicas de classe nos níveis 1, 4, 9, 14 e 19
+* Desbloqueia poderes de trilha nos níveis 2, 7, 11 e 15
+* Versatilidade nos níveis 9, 12, 17 e 19 *(não precisam seguir a mesma trilha, desde que não haja uma dependência do 2º poder para o 1º poder de uma mesma trilha)*
 * Grau de treinamento nos níveis 6 e 12
 * Aumento de atributo nos níveis 4, 10, 14 e 19
 
@@ -30,8 +30,9 @@ Em geral, a nova evolução de classes segue esse padrão:
 | 16    | Poder de classe ou geral                                                                                       |
 | 17    | Poder de classe ou geral; Versatilidade                                                                        |
 | 18    | Poder de classe ou geral                                                                                       |
-| 19    | Poder de classe ou geral; Habilidade específica de classe; Desbloqueio de poder de trilha; Aumento de atributo |
+| 19    | Poder de classe ou geral; Habilidade específica de classe; Versatilidade; Aumento de atributo |
 | 20    | Poder de classe ou geral                                                                                       |
+
 ---
 
 ## Combatente
@@ -62,7 +63,12 @@ Para diversificar a classe de combatente e tentar deixar ela menos "ovô gastar 
 | Sacrifício                |               −2 | Sempre que usado, o utilizador perde 10 PV.                                                                        |
 | Vingança                  |               −2 | Só pode ser usado 1 vez contra inimigos que causaram mais da metade dos seus PV (ou dos PV de aliados) em dano.    |
 
-\* **Conjurador**: custo total = (custo do ritual) + 1 PD. Deve ser discutido/validado com o mestre; não é combinável com outros efeitos.
+* **Conjurador**: custo total = (custo do ritual) + 1 PD. Deve ser discutido/validado com o mestre; não é combinável com outros efeitos.
+
+Essa classe não pode aprender rituais sem ser por Transcender ou por habilidades específicas (de trilha, de NEx… etc)
+
+* **Combatente Paranormal:** toda vez que, subindo de NEx, escolher o poder de NEx Transcender > Aprender um ritual, pode aprender 2 rituais de combate
+
 ---
 
 ## Especialista
@@ -72,6 +78,10 @@ Tendo em vista as mudanças no sistema de rolagem de dados, fizemos algumas alte
 * **Eclético:** você pode gastar 2 PD para fazer um teste em uma perícia como se fosse treinado. Nos níveis do grau de treinamento, você pode gastar 2 PD adicionais para receber o benefício de ter mais um grau de treinamento nela
 * **Perito:** escolha duas perícias. Você pode gastar 2 PD para receber +1 nos testes dessas perícias. Nos níveis 9, 14 e 17, você pode escolher gastar mais uma, duas e três perícias adicionais, respectivamente, e pode escolher gastar +2, +4 e +6 PD para receber um bônus adicional de +1, +2 e +3, respectivamente.
 
+Essa classe não pode aprender rituais sem ser por Transcender ou por habilidades específicas (de trilha, de NEx… etc)
+
+* **Especialista Paranormal:** toda vez que, subindo de NEx, escolher o poder de NEx Transcender > Aprender um ritual, pode aprender 2 rituais que não sejam de combate
+
 ---
 
 ## Ocultista
@@ -79,6 +89,23 @@ Tendo em vista as mudanças no sistema de rolagem de dados, fizemos algumas alte
 A habilidade "escolhido pelo outro lado" progride com base no NEx, não no nível, para desbloquear novos círculos de rituais. O poder de NEx transcender, para ocultistas, é um poder de classe e, ao invés de aprender 1 ritual, aprendem 3 (ainda contam no limite de rituais).
 
 Foi adicionado um poder para, ao transcender, perder menos PD
+
+Personagens  ocultistas ainda começam com 3 rituais por causa da habilidade Escolhido do Outro Lado, mas não ganham novos rituais a cada nível/ NEx. Ao invés disso, para ganhar novos rituais, devem escolher o poder de classe Aprender rituais ou o poder de NEx Transcender. Também podem ganhar rituais por habilidades específicas (de trilha, de NEx… etc)
+
+* **Aprender Rituais:** aprende 3 rituais mas sofrer uma penalidade (tabela - 1d6):
+
+| Dado | Penalidade
+| ---- | --------------------------------------------------------------- |
+| 1    | -PD iguais a soma das categorias de todos os rituais aprendidos |
+| 2    | ⁠-PD igual a ritual aprendido de maior categoria                 |
+| 3  ⁠  | -PV igual seu INT                                               |
+| 4  ⁠  | ⁠-2 em Perícia                                                   |
+| 5  ⁠  | Só aprende 2 rituais                                            |
+| 6  ⁠  | Sem penalidade                                                  |
+
+Um ocultista pode aprender até INT x 3 rituais assim
+
+* **Conjurador Dedicado:** aumenta em +1 o multiplicador do limite de rituais (por exemplo, INT x 3 vira INT x 4). Esse poder pode ser pego até 3 vezes
 
 ---
 

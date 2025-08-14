@@ -2,6 +2,6 @@
 
 Este projeto possui uma **análise crítica** da matemática por trás do sistema de RPG *Ordem Paranormal* junto com uma **proposta de aprimoramento** para o sistema, buscando deixá-lo mais equilibrado, coerente e fluido. 
 
-Ele é divido em duas partes: o código usado para a análise matemática probabilística do sistema e da proposta, e os documentos que reúnem e descrevem as mudanças sugeridas.
+Ele é divido em duas partes: o código usado para a análise probabilística do sistema e da proposta, situado em `/codigo`, e os documentos que reúnem e descrevem as mudanças sugeridas, em `/docs`.
 
 Acesso o [link da planilha](https://docs.google.com/spreadsheets/d/1PIZnTuIN8IGMuQPT-ycE88ZoAJc1iObEW9AGnDlN-EU/edit?gid=1423698078#gid=1423698078) para mehor visualização da análise.
