@@ -71,7 +71,7 @@ Dessa forma, múltiplos ataques em um só turno são previstos. Para cada ataque
 
 #### Rituais
 
-O número de ações necessárias para conjurar um ritual varia com seua categoria, mas possuem o mínimo de 1 ação.
+O número de ações necessárias para conjurar um ritual varia com seua categoria, mas possuem o mínimo de 1 ação. Pode-se usar múltiplos rituais por rodada, mas para cada ritual adicional, uma desvantagem (proporcional a categoria do ritual utilizado) é aplicada. 
 
 Para rituais não necessariamente ofensivos, como de utilidade (aplicam condições ao invés de causar dano), assistência (cura, vida temporária) e de reação, gastam apenas 1 ação, independente da categoria.
 
