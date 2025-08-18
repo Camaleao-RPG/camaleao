@@ -546,7 +546,7 @@ Limite de crédito acima do normal (o quanto isso é relevante fica a critério 
 
 ### Patrulha
 
-+2 armadura.
++2 Defesa.
 
 ---
 
