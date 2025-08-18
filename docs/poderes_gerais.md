@@ -141,7 +141,7 @@ _Pré-requisito:_ PRE 2, Religião
 
 ### Acrobático
 
-**FOR** → **DES** em Atletismo. Terreno difícil não afeta deslocamento nem impede investida.
+**FOR** → **AGI** em Atletismo. Terreno difícil não afeta deslocamento nem impede investida.
 
 _Pré-requisito:_ AGI 2, Atletismo
 
@@ -576,7 +576,7 @@ Treinado ou +1 em Ciência; pode substituir Ocultismo ou Sobrevivência para ide
 
 ### Poder da Amizade
 
-Escolha um personagem como melhor amigo. Se estiverem juntos, +1 em todos os testes de perícia. Interprete de forma leal.
+Escolha um personagem como melhor amigo. Quando fizerem um teste juntos, ambos recebem +1. Interprete de forma leal.
 
 ---
 
