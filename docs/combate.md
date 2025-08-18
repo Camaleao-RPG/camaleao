@@ -101,7 +101,7 @@ Cada jogador possui um deslocamento padrão de 9m (ou próximo, caso prefira usa
 
 Cada uma das reações a seguir só pode ser feita uma vez por rodada, mas múltiplas ações podem ser usadas numa mesma rodada *(Ex.: você pode entrar na frente e defender em uma mesma rodada, desde que possua ações o suficiente para isso):
 
-* **Defender:** reduz o dano sofrido pela sua armadura
+* **Defender:** reduz o dano sofrido pela sua Defesa. A Defesa agora é calculada como 4 + AGI + outros bônus/perícia (como Reflexo, por exemplo). 
 * **Entrar na frente:** você se torna o alvo de um ataque feito a uma criatura próxima a você.
 * **Ataque de oportunidade:** se uma criatura tentar sair de seu alcance corpo a corpo, você pode realizar um ataque com desvantagem contra ela.
 * **Ajudar:** se você conseguir ganhar na lábia, pode garantir vantagem a algum outro personagem em algum teste nessa rodada.
