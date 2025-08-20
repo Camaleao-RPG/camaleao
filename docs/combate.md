@@ -71,7 +71,9 @@ Dessa forma, múltiplos ataques em um só turno são previstos. Para cada ataque
 
 #### Rituais
 
-O número de ações necessárias para conjurar um ritual varia com seua categoria, mas possuem o mínimo de 1 ação. Pode-se usar múltiplos rituais por rodada, mas para cada ritual adicional, uma desvantagem (proporcional a categoria do ritual utilizado) é aplicada e também é necessário +1 sucesso no teste de Ocultismo (acumulativamente). 
+O número de ações necessárias para conjurar um ritual varia com seua categoria, mas possuem o mínimo de 1 ação. 
+
+Pode-se usar múltiplos rituais numa mesma rodada, desde que dentro do limite de ações. Nesse caso, soma-se a categoria dos rituais para determinar a DT e a quantidade de sucessos necessários e faz-se um único teste de Ocultismo, sofrendo uma desvantagem para cada ritual adicional (1 dado a menos se estiver conjurando 2 rituais, 2 dados, se tiver conjurando 3, etc). 
 
 Para rituais não necessariamente ofensivos, como de utilidade (aplicam condições ao invés de causar dano), assistência (cura, vida temporária) e de reação, gastam apenas 1 ação, independente da categoria.
 
