@@ -67,6 +67,7 @@ Para diversificar a classe de combatente e tentar deixar ela menos "ovô gastar 
 
 Essa classe não pode aprender rituais sem ser por Transcender ou por habilidades específicas (de trilha, de NEx… etc)
 
+**NOVOS PODERES DE CLASSE**
 * **Combatente Paranormal:** toda vez que, subindo de NEx, escolher o poder de NEx Transcender > Aprender um ritual, pode aprender 2 rituais de combate
 
 ---
@@ -80,18 +81,18 @@ Tendo em vista as mudanças no sistema de rolagem de dados, fizemos algumas alte
 
 Essa classe não pode aprender rituais sem ser por Transcender ou por habilidades específicas (de trilha, de NEx… etc)
 
+**NOVOS PODERES DE CLASSE**
 * **Especialista Paranormal:** toda vez que, subindo de NEx, escolher o poder de NEx Transcender > Aprender um ritual, pode aprender 2 rituais que não sejam de combate
 
 ---
 
 ## Ocultista
 
-A habilidade "escolhido pelo outro lado" progride com base no NEx, não no nível, para desbloquear novos círculos de rituais. O poder de NEx transcender, para ocultistas, é um poder de classe e, ao invés de aprender 1 ritual, aprendem 3 (ainda contam no limite de rituais).
+A habilidade "Escolhido pelo Outro Lado" progride com base no NEx, não no nível, para desbloquear novos círculos de rituais (2º Círculo em 20%, 3º Círculo em 45% e 4º Círculo em 70%). 
 
-Foi adicionado um poder para, ao transcender, perder menos PD
+Personagens  ocultistas ainda começam com 3 rituais por causa da habilidade "Escolhido do Outro Lado", mas não ganham novos rituais a cada nível/ NEx. Ao invés disso, para ganhar novos rituais, devem escolher o poder de classe Aprender rituais ou o poder de NEx Transcender. Também podem ganhar rituais por habilidades específicas (de trilha, de NEx… etc)
 
-Personagens  ocultistas ainda começam com 3 rituais por causa da habilidade Escolhido do Outro Lado, mas não ganham novos rituais a cada nível/ NEx. Ao invés disso, para ganhar novos rituais, devem escolher o poder de classe Aprender rituais ou o poder de NEx Transcender. Também podem ganhar rituais por habilidades específicas (de trilha, de NEx… etc)
-
+**NOVOS PODERES DE CLASSE**
 * **Aprender Rituais:** aprende 3 rituais mas sofrer uma penalidade (tabela - 1d6):
 
 | Dado | Penalidade
@@ -106,6 +107,7 @@ Personagens  ocultistas ainda começam com 3 rituais por causa da habilidade Esc
 Um ocultista pode aprender até INT x 3 rituais assim
 
 * **Conjurador Dedicado:** aumenta em +1 o multiplicador do limite de rituais (por exemplo, INT x 3 vira INT x 4). Esse poder pode ser pego até 3 vezes
+* **Rituais em Fluxo:** não sofre penalidades ao usar múltiplos rituais em uma mesma rodada. Pré-requisito: NEx 60%. 
 
 ---
 
