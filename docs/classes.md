@@ -104,7 +104,7 @@ Personagens  ocultistas ainda começam com 3 rituais por causa da habilidade "Es
 | 5  ⁠  | Só aprende 2 rituais                                            |
 | 6  ⁠  | Sem penalidade                                                  |
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Um ocultista pode aprender até INT x 3 rituais assim
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Um ocultista pode aprender até INT x 3 rituais assim
 
 * **Conjurador Dedicado:** aumenta em +1 o multiplicador do limite de rituais (por exemplo, INT x 3 vira INT x 4). Esse poder pode ser pego até 3 vezes.
 * **Rituais em Fluxo:** não sofre penalidades ao usar múltiplos rituais em uma mesma rodada. _Pré-requisito:_ NEx 60%. 
