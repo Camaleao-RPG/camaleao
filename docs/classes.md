@@ -3,6 +3,7 @@
 De maneira geral, é mantido o esqueleto das 3 classes principais: Combatente, Especialista e Ocultista. Classes novas a serem pensadas em cima dessas variam em poderes disponíveis e a habilidade única da classe. Essa nova habilidade única poderia vir de um [Pacto](/ANNphwfNRAiG6JXrMMtBdQ)
 
 Em geral, a nova evolução de classes segue esse padrão:
+* Empenho (habilidade do Mundano/Sobrevivente) para todos
 * Um poder de classe ou geral a cada evolução de nível
 * Habilidades específicas de classe nos níveis 1, 4, 9, 14 e 19
 * Desbloqueia poderes de trilha nos níveis 2, 7, 11 e 15
@@ -12,7 +13,7 @@ Em geral, a nova evolução de classes segue esse padrão:
 
 | Nível | Habilidades                                                                                                    |
 | ----- | -------------------------------------------------------------------------------------------------------------- |
-| 1     | Poder de classe ou geral; Habilidade específica de classe                                                      |
+| 1     | Poder de classe ou geral; Habilidade específica de classe; Empenho                                             |
 | 2     | Poder de classe ou geral; Desbloqueio de poder de trilha                                                       |
 | 3     | Poder de classe ou geral                                                                                       |
 | 4     | Poder de classe ou geral; Habilidade específica de classe; Aumento de atributo                                 |
@@ -37,10 +38,13 @@ Em geral, a nova evolução de classes segue esse padrão:
 
 ## Combatente
 
+Essa classe não pode aprender rituais sem ser por Transcender ou por habilidades específicas (de trilha, de NEx… etc)
+
 Para diversificar a classe de combatente e tentar deixar ela menos "ovô gastar PD pra dar mais dano", vamos mudar a habilidade do Ataque Especial para um esquema parecido com o Golpe Pessoal, do guerreiro de Tormenta 20:
 
-* **Ataque Especial:** você pode montar um ataque com alguns efeitos especiais que aumentam ou reduzem seu custo de PD. O custo mínimo de um ataque especial é 1 PD. Cada ataque especial pertence a uma arma específica. Ao subir de nível, você pode redefinir seus ataques especiais
 * **Perícias:** mais uma perícia pois 1 + INT para uma classe que, tendencialmente, não vai ter muitas perícias é sacanagem
+
+* **Ataque Especial:** você pode montar um ataque com alguns efeitos especiais que aumentam ou reduzem seu custo de PD. O custo mínimo de um ataque especial é 1 PD. Cada ataque especial pertence a uma arma específica. Ao subir de nível, você pode redefinir seus ataques especiais
 
 | Nome                      |       Custo (PD) | Efeito                                                                                                             |
 | ------------------------- | ---------------: | ------------------------------------------------------------------------------------------------------------------ |
@@ -63,10 +67,6 @@ Para diversificar a classe de combatente e tentar deixar ela menos "ovô gastar 
 | Sacrifício                |               −2 | Sempre que usado, o utilizador perde 10 PV.                                                                        |
 | Vingança                  |               −2 | Só pode ser usado 1 vez contra inimigos que causaram mais da metade dos seus PV (ou dos PV de aliados) em dano.    |
 
-* **Conjurador**: custo total = (custo do ritual) + 1 PD. Deve ser discutido/validado com o mestre; não é combinável com outros efeitos.
-
-Essa classe não pode aprender rituais sem ser por Transcender ou por habilidades específicas (de trilha, de NEx… etc)
-
 **NOVOS PODERES DE CLASSE**
 * **Combatente Paranormal:** toda vez que, subindo de NEx, escolher o poder de NEx Transcender > Aprender um ritual, pode aprender 2 rituais de combate
 
@@ -74,12 +74,12 @@ Essa classe não pode aprender rituais sem ser por Transcender ou por habilidade
 
 ## Especialista
 
+Essa classe não pode aprender rituais sem ser por Transcender ou por habilidades específicas (de trilha, de NEx… etc)
+
 Tendo em vista as mudanças no sistema de rolagem de dados, fizemos algumas alterações nas habilidades do especialista:
 
 * **Eclético:** você pode gastar 2 PD para fazer um teste em uma perícia como se fosse treinado. Nos níveis do grau de treinamento, você pode gastar 2 PD adicionais para receber o benefício de ter mais um grau de treinamento nela
 * **Perito:** escolha duas perícias. Você pode gastar 2 PD para receber +1 nos testes dessas perícias. Nos níveis 9, 14 e 17, você pode escolher gastar mais uma, duas e três perícias adicionais, respectivamente, e pode escolher gastar +2, +4 e +6 PD para receber um bônus adicional de +1, +2 e +3, respectivamente.
-
-Essa classe não pode aprender rituais sem ser por Transcender ou por habilidades específicas (de trilha, de NEx… etc)
 
 **NOVOS PODERES DE CLASSE**
 * **Especialista Paranormal:** toda vez que, subindo de NEx, escolher o poder de NEx Transcender > Aprender um ritual, pode aprender 2 rituais que não sejam de combate
