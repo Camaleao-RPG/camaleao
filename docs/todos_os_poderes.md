@@ -33,6 +33,117 @@
 #### Poderes de Trilha
 
 ##### Aniqulador
+* **Nv 2 - A Favorita:** Escolha uma arma para ser sua favorita, como katana ou fuzil de assalto. A categoria da arma escolhida é reduzida em I.
+* **Nv 7 - Técnica Secreta:** A categoria da arma favorita passa a ser reduzida em II. Quando faz um ataque com ela, você pode gastar 2 PD para executar um dos efeitos a seguir como parte do ataque. Você pode adicionar mais efeitos gastando +2 PD por efeito adicional. _Amplo:_ O ataque pode atingir um alvo adicional em seu alcance e adjacente ao original (use o mesmo teste de ataque para ambos). _Destruidor:_ Aumenta o multiplicador de crítico da arma em +1.
+NEX 11 - Técnica Sublime. Você adiciona os
+seguintes efeitos à lista de sua Técnica Secreta:
+b Letal. Aumenta a margem de ameaça em +2.
+Você pode escolher este efeito duas vezes para
+aumentar a margem de ameaça em +5.
+b Perfurante. Ignora até 5 pontos de resistência a
+dano de qualquer tipo do alvo.
+NEX 15 Máquina de Matar. A categoria da
+arma favorita passa a ser reduzida em III, ela recebe
++2 na margem de ameaça e seu dano aumenta em
+um dado do mesmo tipo.
+Comandante de Campo
+Sem um oficial uma batalha não passa de uma briga
+de bar. Você é treinado para coordenar e auxiliar
+seus companheiros em combate, tomando decisões
+26
+Ivan Soares ivevso@yahoo.com.br
+rápidas e tirando melhor proveito da situação e do
+talento de seus aliados.
+NEX 10% - Inspirar Confiança. Sua liderança
+inspira seus aliados. Você pode gastar uma reação
+e 2 PE para fazer um aliado em alcance curto rolar
+novamente um teste recém realizado.
+NEX 40% - Estrategista. Você pode direcionar
+aliados em alcance curto. Gaste uma ação padrão e
+1 PE por aliado que quiser direcionar (limitado pelo
+seu Intelecto). No próximo turno dos aliados afeta-
+dos, eles ganham uma ação de movimento adicional.
+NEX 65% - Brecha na Guarda. Uma vez por ro-
+dada, quando um aliado causar dano em um inimigo
+que esteja em seu alcance curto, você pode gastar
+uma reação e 2 PE para que você ou outro aliado
+em alcance curto faça um ataque adicional contra
+o mesmo inimigo. Além disso, o alcance de inspirar
+confiança e estrategista aumenta para médio.
+NEX 99% - Oficial Comandante. Você pode
+gastar uma ação padrão e 5 PE para que cada aliado
+que você possa ver em alcance médio receba uma
+ação padrão adicional no próximo turno dele.
+Guerreiro
+Você treinou sua musculatura e movimentos a ponto
+de transformar seu corpo em uma verdadeira arma.
+Com golpes corpo a corpo tão poderosos quanto
+uma bala, você enfrenta inimigos sem medo.
+NEX 10% - Técnica Letal. Você recebe um au-
+mento de +2 na margem de ameaça com todos os
+seus ataques corpo a corpo.
+NEX 40% - Revidar. Sempre que bloquear um ata-
+que, você pode gastar uma reação e 2 PE para fazer
+um ataque corpo a corpo no inimigo que o atacou.
+NEX 65% - Força Opressora. Quando acerta
+um ataque corpo a corpo, você pode gastar 1 PE
+para realizar uma manobra derrubar ou empur-
+rar contra o alvo do ataque como ação livre. Se
+escolher empurrar, recebe um bônus de +5 para
+cada 10 pontos de dano que causou no alvo. Se
+escolher derrubar e vencer no teste oposto, você
+pode gastar 1 PE para fazer um ataque adicional
+contra o alvo caído.
+NEX 99% - Potência Máxima. Quando usa seu
+Ataque Especial com armas corpo a corpo, todos os
+bônus numéricos são dobrados. Por exemplo, se usar
+5 PE para receber +5 no ataque e +15 no dano, você
+recebe +10 no ataque e +30 no dano.
+Operações Especiais
+Você é um combatente eficaz. Suas ações são calcula-
+das e otimizadas, sempre antevendo os movimentos
+inimigos e se posicionando da maneira mais inteli-
+gente no campo de batalha.
+NEX 10% - Iniciativa Aprimorada. Você recebe
++5 em Iniciativa e uma ação de movimento adicional
+na primeira rodada.
+NEX 40% - Ataque Extra. Uma vez por rodada,
+quando faz um ataque, você pode gastar 2 PE para
+fazer um ataque adicional.
+NEX 65% - Surto de Adrenalina. Uma vez por
+rodada, você pode gastar 5 PE para realizar uma ação
+padrão ou de movimento adicional.
+NEX 99% - Sempre Alerta. Você recebe uma ação
+padrão adicional no início de cada cena de combate.
+Tropa de Choque
+Você é duro na queda. Treinou seu corpo para re-
+sistir a traumas f ísicos, tornando-o praticamente
+inquebrável, e por isso não teme se colocar entre seus
+aliados e o perigo.
+NEX 10% - Casca Grossa. Você recebe +1 PV para
+cada 5% de NEX e, quando faz um bloqueio, soma
+seu Vigor na resistência a dano recebida.
+NEX 40% - Cai Dentro. Sempre que um oponen-
+te em alcance curto ataca um de seus aliados, você
+pode gastar uma reação e 1 PE para fazer com que
+esse oponente faça um teste de Vontade (DT Vig).
+Se falhar, o oponente deve atacar você em vez de
+seu aliado. Este poder só funciona se você puder ser
+efetivamente atacado e estiver no alcance do ataque
+(por exemplo, adjacente a um oponente atacando em
+corpo a corpo ou dentro do alcance de uma arma de
+ataque à distância). Um oponente que passe no teste
+de Vontade não pode ser afetado por seu poder Cai
+Dentro até o final da cena.
+NEX 65% - Duro de Matar. Ao sofrer dano não
+paranormal, você pode gastar uma reação e 2 PE para
+reduzir esse dano à metade. Em NEX 85%, você pode
+usar esta habilidade para reduzir dano paranormal.
+NEX 99% - Inquebrável. Enquanto estiver machu-
+cado, você recebe +5 na Defesa e resistência a dano
+5. Enquanto estiver morrendo, em vez do normal,
+você não fica indefeso e ainda pode realizar ações.
+Você ainda segue as regras de morte normalmente.
 
 #####
 
