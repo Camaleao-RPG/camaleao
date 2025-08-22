@@ -3,6 +3,29 @@
 ## Combatente
 
 ### Ataque Especial
+Você pode montar um ataque com alguns efeitos especiais que aumentam ou reduzem seu custo de PD. O custo mínimo de um ataque especial é 1 PD. Cada ataque especial pertence a uma arma específica. Ao subir de nível, você pode redefinir seus ataques especiais. 
+
+| Nome                      |       Custo (PD) | Efeito                                                                                                             |
+| ------------------------- | ---------------: | ------------------------------------------------------------------------------------------------------------------ |
+| Amplo                     |                3 | Atinge todas as criaturas em alcance curto (incluindo aliados).                                                    |
+| Atordoante                |                2 | Criatura que sofra dano fica atordoada por 1 rodada. DT Fortitude: 1 sucesso — desprevenido; 2 sucessos — anula.   |
+| Brutal                    |                1 | Dado extra de dano do mesmo tipo.                                                                                  |
+| Conjurador\*              | custo ritual + 1 | Escolha um ritual; causa o efeito do ritual. Não pode ser combinado com outros efeitos; requer consulta ao mestre. |
+| Destruidor                |                2 | +1 (dado com +1 passo) em caso de crítico.                                                                         |
+| Distante                  |                1 | Aumenta o alcance em um passo.                                                                                     |
+| Flamejante, Elétrico, ... |                2 | +2d6 do tipo escolhido.                                                                                            |
+| Impactante                |                1 | Meio alcance curto por cada 10 de dano.                                                                            |
+| Letal                     |                2 | Aumenta a margem de ameaça em 1 (por vez escolhida).                                                               |
+| Penetrante                |                1 | Ignora Redução de Dano (RD).                                                                                       |
+| Preciso                   |                1 | Vantagem no ataque.                                                                                                |
+| Qualquer Arma             |                1 | Permite usar qualquer tipo de arma.                                                                                |
+| Ricocheteante             |                1 | Arma volta para você após o ataque — apenas armas de arremesso.                                                    |
+| Teleguiado                |                1 | Ignora penalidade por distância e efeitos de cobertura.                                                            |
+| Lento                     |               −2 | Requer 3 ações para ser usado.                                                                                     |
+| Perto da Morte            |               −2 | Só pode ser usado com alvo com até 1/4 dos PV.                                                                     |
+| Sacrifício                |               −2 | Sempre que usado, o utilizador perde 10 PV.                                                                        |
+| Vingança                  |               −2 | Só pode ser usado 1 vez contra inimigos que causaram mais da metade dos seus PV (ou dos PV de aliados) em dano.    |
+
 
 ### Poderes de Combatente
 * **Apego Angustiado:** Não importa o quão profundos sejam seus ferimentos, você escolhe a agonia enlouquecedora da dor a perder a consciência diante da própria morte. Você não fica inconsciente por estar morrendo, mas sempre que terminar uma rodada nesta condição e consciente, perde 1 ponto de Determinação.
@@ -33,7 +56,7 @@
 
 ### Poderes de Trilha
 
-### Agente Secreto
+#### Agente Secreto
 * **Nv 2 - Carteirada:** Escolha uma perícia entre Diplomacia ou Enganação. Você recebe treinamento na perícia escolhida ou, se já for treinado, recebe +2 nela. Como parte do esforço conjunto da sua agência e da Ordem, no início de cada missão você recebe documentos que lhe fornecem privilégios jurídicos especiais. Esses documentos podem incluir a sua identidade verdadeira ou não, e podem ser individuais ou incluir os demais membros da sua equipe (conforme apropriado à missão). Os benefícios específicos desses documentos ficam a critério do mestre, mas em geral incluem acesso a locais restritos ou proibidos, permissão para portar armas de fogo e autoridade para assumir a jurisdição de investigações da polícia. Pessoas comuns não conseguem perceber que seus documentos são falsos, mas membros de agências de segurança ou indivíduos veteranos em Crime podem desconfiar de sua veracidade. Os documentos contam como itens operacionais que não ocupam espaço — mas cuidado para não perdê-los em locais onde novos não podem ser fornecidos!
 * **Nv 7 - O Sorriso:** Você recebe +2 em Diplomacia e Enganação e, quando falha em um teste de uma dessas perícias, pode gastar 2 PD para repetir a rolagem (apenas uma vez por teste), mas deve aceitar o novo resultado, mesmo que seja pior que o primeiro. Por fim, uma vez por cena, você pode fazer um teste de Diplomacia para acalmar a si mesmo.
 * **Nv 11 - Método Investigativo:** A urgência de qualquer cena de investigação em que você esteja presente aumenta em 1 rodada. Além disso, quando o mestre faz uma rolagem na tabela de eventos de investigação, você pode gastar 2 PD para transformar o resultado em “sem evento”. Você pode usar este efeito mais de uma vez na mesma cena, mas a cada uso adicional seu custo aumenta em +2 PD.
@@ -48,6 +71,12 @@
 * * _Letal:_ Aumenta a margem de ameaça em +2. Você pode escolher este efeito duas vezes para aumentar a margem de ameaça em +5. 
 * * _Perfurante:_ Ignora até 5 pontos de resistência a dano de qualquer tipo do alvo.
 * **Nv 15 - Máquina de Matar:** A categoria da arma favorita passa a ser reduzida em III, ela recebe +2 na margem de ameaça e seu dano aumenta em um dado do mesmo tipo.
+
+#### Caçador
+* **Nv 2 - Rastrear o Paranormal:** Você recebe treinamento em Sobrevivência ou, se já for treinado nesta perícia, recebe +2 nela. Além disso, pode usar essa perícia no lugar de Ocultismo para identificar criaturas e no lugar de Investigação e Percepção para perceber e encontrar rastros, pistas e criaturas que tenham traços paranormais.
+* **Nv 7 - Estudar Fraquezas:** Você pode gastar uma ação de interlúdio estudando as fraquezas de um ser específico, como uma criatura paranormal ou um membro de um culto. Para isso, você precisa de uma pista diretamente ligada ao ser, como uma parte do seu corpo ou de suas vestes. Ao fim dos estudos, você recebe uma informação útil sobre o ser. Isso pode ser uma característica relevante (“a criatura é do elemento Sangue”) ou uma informação sobre seus hábitos (“apesar de matar qualquer coisa, ela parece preferir idosos”). Além das informações, para cada pista você recebe +1 em testes de perícia contra a criatura até o fim da missão. Cada pista fornece apenas uma informação e, a critério do mestre, informações diferentes podem exigir pistas específicas.
+* **Nv 11 - Atacar das Sombras:** Você aprende a usar as sombras contra o Paranormal. Você não sofre a penalidade de –1D20 em testes de Furtividade por se mover ao seu deslocamento normal e, se estiver usando uma arma que não faça barulho (como uma faca ou um arco), a penalidade que você sofre em Furtividade por atacar na mesma rodada é reduzida para –1D20. Além disso, sua visibilidade inicial em cenas de furtividade (veja p. 92) é sempre 1 ponto abaixo da inicial (podendo ser negativa).
+* **Nv 15 - Estudar a Presa:** Quando usa Estudar Fraquezas contra uma criatura paranormal ou um cultista, você pode transformar o tipo desse ser em sua “presa”. Contra seres desse tipo, você recebe +1D20 em testes de perícia, +1 na margem de ameaça e no multiplicador de crítico e resistência a dano 5. Você só pode ter um tipo de ser como presa ao mesmo tempo.
 
 #### Comandante de Campo
 * **Nv 2 - Inspirar Confiança:** Sua liderança inspira seus aliados. Você pode gastar uma reação e 2 PD para fazer um aliado em alcance curto rolar novamente um teste recém realizado.
@@ -73,77 +102,7 @@
 * **Nv 11 - Duro de Matar:** Ao sofrer dano não paranormal, você pode gastar uma reação e 2 PD para reduzir esse dano à metade. Em Nv 17, você pode usar esta habilidade para reduzir dano paranormal.
 * **Nv 15 - Inquebrável:** Enquanto estiver machucado, você recebe +5 na Defesa e resistência a dano 5. Enquanto estiver morrendo, em vez do normal, você não fica indefeso e ainda pode realizar ações. Você ainda segue as regras de morte normalmente.
 
-### Caçador
-NEX 10% - Rastrear o Paranormal. Você es-
-tudou criaturas paranormais o suficiente para saber
-como identificar seus sinais e seguir seus rastros.
-Você recebe treinamento em Sobrevivência ou, se
-já for treinado nesta perícia, recebe +2 nela. Além
-disso, pode usar essa perícia no lugar de Ocul-
-tismo para identificar criaturas e no lugar
-de Investigação e Percepção para perceber
-e encontrar rastros, pistas e criaturas que
-tenham traços paranormais.
-NEX 40% - Estudar Fraquezas. Você
-acredita que todo ser, mesmo aqueles
-do Outro Lado, tem uma fraque-
-za. E você vai encontrá-la… você
-precisa! Você pode gastar uma
-ação de interlúdio estudando as
-fraquezas de um ser específico,
-como uma criatura paranormal
-ou um membro de um culto.
-Para isso, você precisa de uma
-pista diretamente ligada ao ser,
-como uma parte do seu corpo
-ou de suas vestes. Ao fim dos
-estudos, você recebe
-uma informa-
-ção útil sobre o
-ser. Isso pode ser
-uma caracterís-
-tica relevante (“a
-criatura é do ele-
-mento Sangue”) ou
-uma informação sobre
-seus hábitos (“apesar de
-matar qualquer coisa, ela
-parece preferir idosos”).
-Além das informações, para
-cada pista você recebe +1 em
-testes de perícia contra a
-criatura até o fim da missão.
-Cada pista fornece apenas
-uma informação e, a critério
-do mestre, informações di-
-ferentes podem exigir
-pistas específicas.
-16
-NEX 65% - Atacar das Sombras. Você aprende a
-usar as sombras contra o Paranormal. Você não sofre
-a penalidade de –O em testes de Furtividade por
-se mover ao seu deslocamento normal e, se estiver
-usando uma arma que não faça barulho (como uma
-faca ou um arco), a penalidade que você sofre em
-Furtividade por atacar na mesma rodada é reduzida
-para –O. Além disso, sua visibilidade inicial em cenas
-de furtividade (veja p. 92) é sempre 1 ponto abaixo
-da inicial (podendo ser negativa).
-NEX 99% - Estudar a Presa. Você sabe que eles
-são mais fortes e que para derrotá-los preci-
-sará revelar todos os seus segredos. Quando
-usa Estudar Fraquezas contra uma criatura
-paranormal ou um cultista, você pode
-transformar o tipo desse ser em sua
-“presa”. Contra seres desse tipo, você
-recebe +O em testes de perícia,
-+1 na margem de ameaça e no
-multiplicador de crítico e re-
-sistência a dano 5. Você só
-pode ter um tipo de ser como
-presa ao mesmo tempo.
-
-### Monstruoso
+#### Monstruoso
 _Especial: esta trilha usa a “Progressão de NEx”. O personagem recebe todas as alterações apropriadas ao seu NEX descritas na progressão e, se a regra de Nível de Experiência estiver em uso, recebe o dobro de NEX sempre que se expõe ao paranormal._
 NEX 10% - Ser Amaldiçoado. Em suas veias corre
 uma maldição paranormal que aos poucos o está
@@ -185,7 +144,6 @@ cedido, soma seu
 Vigor na rolagem de
 dano, mas sofre –O
 em Ciências e Intuição.
-17
 I MORTE Você fica pálido e seu metabolismo se torna
 bem mais lento. Você recebe resistência a perfuração
 e Morte 5 e imunidade a fadiga e soma sua Força em
@@ -235,8 +193,6 @@ qualquer coisa que
 não seja carne ou
 sangue não é capaz
 de conter sua fome. Você
-AETERNUS
-Guardião de Morte
 pode usar Força para calcular seus pontos de esfor-
 ço (em vez de Presença). Além disso, pode gastar
 uma ação de movimento e 1 ou mais PE (limitado
@@ -286,7 +242,6 @@ receber pequenos
 choques estimu-
 lantes. Você pode
 usar Agilidade como
-18
 atributo-chave para calcular seus pontos de esforço
 (em vez de Presença). Além disso, quando acerta
 um ataque corpo a corpo, pode gastar 1 ou mais
@@ -386,10 +341,6 @@ de fontes elétricas; para
 isso, deve gastar uma ação de
 movimento e tocar uma fonte
 de eletricidade. Você recupera
-NAMKUZU
-Ascendido de
-Conhecimento
-19
 uma quantidade de PE conforme o tipo de fonte:
 1d4 PE para um dispositivo portátil, como um ta-
 blet ou celular, 2d4 PE para um dispositivo grande,
