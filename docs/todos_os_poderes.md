@@ -90,18 +90,6 @@ Você pode montar um ataque com alguns efeitos especiais que aumentam ou reduzem
 * **Nv 11 - Força Opressora:** Quando acerta um ataque corpo a corpo, você pode gastar 1 PD para realizar uma manobra derrubar ou empurrar contra o alvo do ataque como ação livre. Se escolher empurrar, recebe um bônus de +5 para cada 10 pontos de dano que causou no alvo. Se escolher derrubar e vencer no teste oposto, você pode gastar 1 PD para fazer um ataque adicional contra o alvo caído.
 * **Nv 15 - Potência Máxima:** Quando usa seu Ataque Especial com armas corpo a corpo, todos os bônus numéricos são dobrados. Por exemplo, se usar 5 PD para receber +5 no ataque e +15 no dano, você recebe +10 no ataque e +30 no dano.
 
-#### Operações Especiais
-* **Nv 2 - Iniciativa Aprimorada:** Você recebe +5 em Iniciativa e uma ação de movimento adicional na primeira rodada.
-* **Nv 7 - Ataque Extra:** Uma vez por rodada, quando faz um ataque, você pode gastar 2 PD para fazer um ataque adicional.
-* **Nv 11 - Surto de Adrenalina:** Uma vez por rodada, você pode gastar 5 PD para realizar uma ação padrão ou de movimento adicional.
-* **Nv 15 - Sempre Alerta:** Você recebe uma ação padrão adicional no início de cada cena de combate.
-
-#### Tropa de Choque
-* **Nv 2 - Casca Grossa:** Você recebe +1 PV para cada 5% de NEX e, quando faz um bloqueio, soma seu Vigor na resistência a dano recebida.
-* **Nv 7 - Cai Dentro:** Sempre que um oponente em alcance curto ataca um de seus aliados, você pode gastar uma reação e 1 PD para fazer com que esse oponente faça um teste de Vontade (DT Vig). Se falhar, o oponente deve atacar você em vez de seu aliado. Este poder só funciona se você puder ser efetivamente atacado e estiver no alcance do ataque (por exemplo, adjacente a um oponente atacando em corpo a corpo ou dentro do alcance de uma arma de ataque à distância). Um oponente que passe no teste de Vontade não pode ser afetado por seu poder Cai Dentro até o final da cena.
-* **Nv 11 - Duro de Matar:** Ao sofrer dano não paranormal, você pode gastar uma reação e 2 PD para reduzir esse dano à metade. Em Nv 17, você pode usar esta habilidade para reduzir dano paranormal.
-* **Nv 15 - Inquebrável:** Enquanto estiver machucado, você recebe +5 na Defesa e resistência a dano 5. Enquanto estiver morrendo, em vez do normal, você não fica indefeso e ainda pode realizar ações. Você ainda segue as regras de morte normalmente.
-
 #### Monstruoso
 _Especial: esta trilha usa a “Progressão de NEx”. O personagem recebe todas as alterações apropriadas ao seu NEX descritas na progressão e, se a regra de Nível de Experiência estiver em uso, recebe o dobro de NEX sempre que se expõe ao paranormal._
 * **NEX 10% - Ser Amaldiçoado:** Em suas veias corre uma maldição paranormal que aos poucos o está transformando em um monstro. Você se torna treinado em Ocultismo (se já for treinado, em vez disso recebe +2 nessa perícia). Escolha um elemento paranormal entre Sangue, Morte, Conhecimento ou Energia. Uma vez por dia, você precisa executar uma etapa ritualística desse elemento (por exemplo, beber sangue humano para Sangue, inalar cinzas de mortos para Morte, tatuar palavras que causam medo para Conhecimento ou receber choques de cabos elétricos para Energia). Se fizer isso, até o fim do dia você recebe os efeitos descritos a seguir, conforme o elemento escolhido. Caso contrário, você sofre de fome e sede nesse dia (OPRPG, p. 292). Por fim, se adquirir afinidade com um elemento, deverá escolher aquele selecionado para esta habilidade.
@@ -114,209 +102,28 @@ _Especial: esta trilha usa a “Progressão de NEx”. O personagem recebe todas
 * * _Morte:_ Roupas modernas e complexas não parecem fazer sentido pra você. Seus trajes são anacrônicos e simples, às vezes adornado de cristais, esqueletos de pequenas criaturas pendurados, pedras, raízes e plantas mortas. Você recebe +1D20 em Intimidação e pode usar Vigor para calcular seus pontos de esforço (em vez de Presença). Além disso, morre se iniciar quatro turnos morrendo na mesma cena (e não apenas três) e não precisa mais comer ou beber para viver, mas ainda sofre da fome paranormal causada por essa trilha.
 * * _Conhecimento:_ Você está sempre vestindo joias de ouro puro ou roupas com ouro em suas linhas. Seu corpo está quase inteiramente coberto de palavras que evocam medo, como famosas últimas frases ou pedidos de socorro. Você já sabe que é superior a todos eles. Seu Intelecto aumenta em +1. Além disso, você pode usar Intelecto como atributo-chave para Enganação e para calcular seus pontos de esforço (em vez de Presença).
 * * _Energia:_ Você está sempre vestindo roupas complexas e modernas, com luzes brilhantes e dispositivos conectados a baterias e à sua pele para receber pequenos choques estimulantes. Você pode usar Agilidade como atributo-chave para calcular seus pontos de esforço (em vez de Presença). Além disso, quando acerta um ataque corpo a corpo, pode gastar 1 ou mais PD (limitado por sua Agilidade). Se fizer isso, seu ataque causa +1d6 pontos de dano de Energia para cada 1 PD gasto.
-NEX 65% - Ser Assustador. Como um parasi-
-ta, você sente a Entidade andar por todo o seu
-corpo, fazendo de você uma morada. A
-resistência a dano que você recebe por exe-
-cutar a etapa ritualística de seu elemento
-aumenta para 15, mas sua Presença é
-reduzida permanentemente em 1. Por
-fim, quando executa
-sua etapa ritualística,
-você recebe os seguintes
-efeitos adicionais associa-
-dos ao seu elemento.
-I SANGUE Você dilace-
-rou seus próprios ór-
-gãos sensitivos, como
-olhos, nariz e orelhas,
-para que possa sentir
-com total intensidade
-o sabor e a dor da sua
-existência. Arames
-farpados e lâminas
-enroladas em seu
-corpo permitem que
-você não pare de
-sentir. A esse pon-
-to, a palavra “não”
-já parece ser um
-conceito inútil para
-suas decisões: você
-está disposto a aceitar
-tudo, provar de tudo, sofrer tudo.
-Você tem 50% de chance de igno-
-rar o dano adicional de um acerto
-crítico ou ataque furtivo. Além
-disso, recebe uma arma natural
-de mordida (dano 1d8, crítico
-x2, perfuração). Uma vez por
-rodada, quando usa a ação
-agredir para atacar com
-outra arma, você pode
-gastar 1 PE para fa-
-zer um ataque cor-
-po a corpo extra
-com a mordida.
-I MORTE O Lodo preto da Morte faz parte do seu
-consumo diário, ele se espalha pelo seu organismo
-apodrecendo seu sistema, mantendo-o vivo através
-da morte. Não é incomum você ser considerado
-um “acumulador de lixo”: é difícil diferenciar um
-animal vivo de um galho morto, pois perante a
-Morte todas as coisas são iguais. No início de cada
-turno em que estiver morrendo, você pode fazer
-um teste de Vigor (DT 15). Se passar, encerra a
-condição morrendo e acorda com 1 PV. Além disso,
-sempre que faz um acerto crítico em combate ou
-reduz um inimigo a 0 PV, você recupera 2 PE.
-I CONHECIMENTO Você injeta e ingere ouro
-líquido esporadicamente e não há mais espaço
-para tatuagens. Ler, reler e escrever novos
-registros faz parte da sua rotina extre-
-mamente organizada e metódica. Você
-pode deixar de ser treinado em uma de
-suas perícias para receber um número
-de dados de bônus igual ao seu In-
-telecto. Até o fim da cena, sempre
-que fizer um teste, você pode gastar
-um desses dados de bônus para
-receber +O nesse teste. Você
-recupera todas as perícias
-treinadas perdidas dessa
-forma ao final de seu pró-
-ximo interlúdio.
-I ENERGIA A inten-
-sidade dos choques
-aumenta, além de
-ter conectado
-em suas veias
-pequenos
-tubos para
-gotejamen-
-to de ácido. Respirar através
-de uma máscara de gás para
-inalar alucinógenos a todo
-momento deixa tudo mais
-divertido, colorido e caóti-
-co. Sua resistência a dano
-passa a se aplicar também a
-dano químico. Além disso,
-você pode extrair energia
-de fontes elétricas; para
-isso, deve gastar uma ação de
-movimento e tocar uma fonte
-de eletricidade. Você recupera
-uma quantidade de PE conforme o tipo de fonte:
-1d4 PE para um dispositivo portátil, como um ta-
-blet ou celular, 2d4 PE para um dispositivo grande,
-como uma moto ou um carro elétrico, e 4d4 para
-uma fonte do tamanho de uma casa. Usar este
-efeito descarrega completamente a fonte e sobre-
-carrega seus circuitos, que se tornam incapazes
-de transmitir energia.
-NEX 99% - Ser Aterrorizante. Você foi transfor-
-mado no habitat perfeito para a entidade que reside
-no interior de seu corpo e mente. Os efeitos por exe-
-cutar sua etapa ritualística se tornam permanentes
-(mas você ainda precisa executá-la para evitar sentir
-fome e sede) e você passa a ser considerado uma cria-
-tura paranormal para efeitos de habilidades e itens.
-Além disso, a resistência a dano que você recebe
-por essa trilha aumenta para 20 e você recebe
-os seguintes efeitos adicionais associados ao
-seu elemento.
-I SANGUE Você se move como
-uma criatura bestial; não existe
-sensibilidade ou empatia.
-Apenas o instinto e a
-necessidade de consumir
-mais. Se o resultado é devo-
-rar, essa é a decisão correta.
-Pensamentos são esporádicos
-e raros, como pequenos sustos
-de humanidade que são engoli-
-dos pelo fluxo que banha o Outro
-Lado. Seu Intelecto diminui em –1
-e sua Força aumenta em +1. Sempre
-que causa dano com sua mordida em
-um ser, você recupera 5 PV (esse ganho
-também é multiplicado em um acerto
-crítico). Além disso, você aprende o
-ritual Forma Monstruosa. Entretanto,
-seu desejo de assumir essa forma pode so-
-brepujar sua própria vontade; sempre que
-sofre dano, você deve fazer um teste de Vontade
-(DT 10 + o dano sofrido). Se falhar e não estiver
-sob efeito de Forma Monstruosa, sua próxima
-ação padrão deve ser conjurar esse ritual (se
-não puder, você perde a ação).
-I MORTE Você está morto, mas ainda é
-forçado a existir. Sua aparência é a de um
-cadáver apodrecido, todos os seus órgãos
-foram consumidos pela Morte e, por dedicar sua
-existência inteira à entidade, você se tornou imortal.
-Preso na eternidade de cada segundo, você ainda é
-arrastado pela Realidade pela percepção alheia, pois
-mesmo que sua mente tenha se tornado o próprio
-tempo, todas as coisas precisam de um fim. Sua
-Presença diminui em –1 e seu Vigor aumenta em
-+1. Você recebe imunidade a dano de Morte e se
-torna imortal (se morrer, você volta à vida no dia
-seguinte, sendo “restaurado” pelo Lodo). Entretanto,
-se for reduzido a 0 PV por dano de fogo ou Energia,
-seu Lodo é destruído e você não retorna à vida. Por
-fim, você aprende o ritual Fim Inevitável.
-I CONHECIMENTO Sua boca desa-
-pareceu após você costurá-la com
-fios dourados, pois ninguém é digno
-do seu ensinamento. Seus olhos au-
-mentaram e ficaram mais profundos,
-com escleras negras. Todos os seus
-membros se alongaram e ficaram mais
-finos. Suas tatuagens e textos se con-
-verteram em sigilos do Outro Lado. A
-verdade que você deve esquecer está
-atrás de uma porta dourada, e você
-consegue enxergá-la, mas sabe que ao
-abri-la, irá perder tudo. Sua Força dimi-
-nui em –1 e seu Intelecto aumenta em
-+1. Além disso, você recebe Percepção
-às Cegas e aprende um ritual de Conheci-
-mento de 4º círculo a sua escolha. Entre-
-tanto, sempre que conjura esse ritual, você
-perde a memória de tudo que vivenciou
-desde o início da cena.
-I ENERGIA Tudo faz parte de você e você é
-tudo. Você se tornou uma metamorfose am-
-bulante, assumindo uma forma plasmática
-que não pode ser descrita nem como líquida,
-sólida ou gasosa. Seu corpo flutua alguns
-centímetros acima do chão e não é mais
-possível segurar objetos, afinal tudo que
-você toca também se torna parte de você
-enquanto está em contato. Seus traços
-f ísicos mudam constantemente e você
-não pode ser mais descrito com apenas
-uma aparência definitiva. Decisões ló-
-gicas não fazem mais parte da sua vida,
-o Caos é inevitável. Sua Força diminui
-em –1 e sua Agilidade aumenta em +1.
-Você pode pairar a 1,5m do chão com
-deslocamento 12m (o que permite que
-ignore terreno difícil e o torna imu-
-ne a dano por queda), pode passar
-por qualquer espaço por onde uma
-criatura Minúscula poderia passar e
-se torna imune a condições de paralisia de
-origem física (como ser agarrado ou enredado).
-Por fim, você aprende o ritual Deflagração de
-Energia. Entretanto, você não pode mais se
-beneficiar de itens vestidos e, por não ter corpo
-físico, só consegue manipular objetos com sua
-mente; você pode manipular um objeto dessa
-forma por vez, e apenas objetos que poderia
-manipular com suas duas mãos.
+* **NEX 65% - Ser Assustador:** Como um parasita, você sente a Entidade andar por todo o seu corpo, fazendo de você uma morada. A resistência a dano que você recebe por executar a etapa ritualística de seu elemento aumenta para 15, mas sua Presença é reduzida permanentemente em 1. Por fim, quando executa sua etapa ritualística, você recebe os seguintes efeitos adicionais associados ao seu elemento.
+* * _Sangue:_ Você dilacerou seus próprios órgãos sensitivos, como olhos, nariz e orelhas, para que possa sentir com total intensidade o sabor e a dor da sua existência. Arames farpados e lâminas enroladas em seu corpo permitem que você não pare de sentir. A esse ponto, a palavra “não” já parece ser um conceito inútil para suas decisões: você está disposto a aceitar tudo, provar de tudo, sofrer tudo. Você tem 50% de chance de ignorar o dano adicional de um acerto crítico ou ataque furtivo. Além disso, recebe uma arma natural de mordida (dano 1d8, crítico x2, perfuração). Uma vez por rodada, quando usa a ação agredir para atacar com outra arma, você pode gastar 1 PD para fazer um ataque corpo a corpo extra com a mordida.
+* * _Morte:_ O Lodo preto da Morte faz parte do seu consumo diário, ele se espalha pelo seu organismo apodrecendo seu sistema, mantendo-o vivo através da morte. Não é incomum você ser considerado um “acumulador de lixo”: é difícil diferenciar um animal vivo de um galho morto, pois perante a Morte todas as coisas são iguais. No início de cada turno em que estiver morrendo, você pode fazer um teste de Vigor (DT 15). Se passar, encerra a condição morrendo e acorda com 1 PV. Além disso, sempre que faz um acerto crítico em combate ou reduz um inimigo a 0 PV, você recupera 2 PD.
+* * _Conhecimento:_ Você injeta e ingere ouro líquido esporadicamente e não há mais espaço para tatuagens. Ler, reler e escrever novos registros faz parte da sua rotina extremamente organizada e metódica. Você pode deixar de ser treinado em uma de suas perícias para receber um número de dados de bônus igual ao seu Intelecto. Até o fim da cena, sempre que fizer um teste, você pode gastar um desses dados de bônus para receber +1D20 nesse teste. Você recupera todas as perícias treinadas perdidas dessa forma ao final de seu próximo interlúdio.
+* * _Energia:_ A intensidade dos choques aumenta, além de ter conectado em suas veias pequenos tubos para gotejamento de ácido. Respirar através de uma máscara de gás para inalar alucinógenos a todo momento deixa tudo mais divertido, colorido e caótico. Sua resistência a dano passa a se aplicar também a dano químico. Além disso, você pode extrair energia de fontes elétricas; para isso, deve gastar uma ação de movimento e tocar uma fonte de eletricidade. Você recupera uma quantidade de PD conforme o tipo de fonte: 1d4 PD para um dispositivo portátil, como um tablet ou celular, 2d4 PD para um dispositivo grande, como uma moto ou um carro elétrico, e 4d4 para uma fonte do tamanho de uma casa. Usar este efeito descarrega completamente a fonte e sobrecarrega seus circuitos, que se tornam incapazes de transmitir energia.
+* **NEX 99% - Ser Aterrorizante:** Você foi transformado no habitat perfeito para a entidade que reside no interior de seu corpo e mente. Os efeitos por executar sua etapa ritualística se tornam permanentes (mas você ainda precisa executá-la para evitar sentir fome e sede) e você passa a ser considerado uma criatura paranormal para efeitos de habilidades e itens. Além disso, a resistência a dano que você recebe por essa trilha aumenta para 20 e você recebe os seguintes efeitos adicionais associados ao seu elemento.
+* * _Sangue:_ Você se move como uma criatura bestial; não existe sensibilidade ou empatia. Apenas o instinto e a necessidade de consumir mais. Se o resultado é devorar, essa é a decisão correta. Pensamentos são esporádicos e raros, como pequenos sustos de humanidade que são engolidos pelo fluxo que banha o Outro Lado. Seu Intelecto diminui em –1 e sua Força aumenta em +1. Sempre que causa dano com sua mordida em um ser, você recupera 5 PV (esse ganho também é multiplicado em um acerto crítico). Além disso, você aprende o ritual Forma Monstruosa. Entretanto, seu desejo de assumir essa forma pode sobrepujar sua própria vontade; sempre que sofre dano, você deve fazer um teste de Vontade (DT 10 + o dano sofrido). Se falhar e não estiver sob efeito de Forma Monstruosa, sua próxima ação padrão deve ser conjurar esse ritual (se não puder, você perde a ação).
+* * _Morte:_ Você está morto, mas ainda é forçado a existir. Sua aparência é a de um cadáver apodrecido, todos os seus órgãos foram consumidos pela Morte e, por dedicar sua existência inteira à entidade, você se tornou imortal. Preso na eternidade de cada segundo, você ainda é arrastado pela Realidade pela percepção alheia, pois mesmo que sua mente tenha se tornado o próprio tempo, todas as coisas precisam de um fim. Sua Presença diminui em –1 e seu Vigor aumenta em +1. Você recebe imunidade a dano de Morte e se torna imortal (se morrer, você volta à vida no dia seguinte, sendo “restaurado” pelo Lodo). Entretanto, se for reduzido a 0 PV por dano de fogo ou Energia, seu Lodo é destruído e você não retorna à vida. Por fim, você aprende o ritual Fim Inevitável.
+* * _Conhecimento:_ Sua boca desapareceu após você costurá-la com fios dourados, pois ninguém é digno do seu ensinamento. Seus olhos aumentaram e ficaram mais profundos, com escleras negras. Todos os seus membros se alongaram e ficaram mais finos. Suas tatuagens e textos se converteram em sigilos do Outro Lado. A verdade que você deve esquecer está atrás de uma porta dourada, e você consegue enxergá-la, mas sabe que ao abri-la, irá perder tudo. Sua Força diminui em –1 e seu Intelecto aumenta em +1. Além disso, você recebe Percepção às Cegas e aprende um ritual de Conhecimento de 4º círculo a sua escolha. Entretanto, sempre que conjura esse ritual, você perde a memória de tudo que vivenciou desde o início da cena.
+* * _Energia:_ Tudo faz parte de você e você é tudo. Você se tornou uma metamorfose ambulante, assumindo uma forma plasmática que não pode ser descrita nem como líquida, sólida ou gasosa. Seu corpo flutua alguns centímetros acima do chão e não é mais possível segurar objetos, afinal tudo que você toca também se torna parte de você enquanto está em contato. Seus traços físicos mudam constantemente e você não pode ser mais descrito com apenas uma aparência definitiva. Decisões lógicas não fazem mais parte da sua vida, o Caos é inevitável. Sua Força diminui em –1 e sua Agilidade aumenta em +1. Você pode pairar a 1,5m do chão com deslocamento 12m (o que permite que ignore terreno difícil e o torna imune a dano por queda), pode passar por qualquer espaço por onde uma criatura Minúscula poderia passar e se torna imune a condições de paralisia de origem física (como ser agarrado ou enredado). Por fim, você aprende o ritual Deflagração de Energia. Entretanto, você não pode mais se beneficiar de itens vestidos e, por não ter corpo físico, só consegue manipular objetos com sua mente; você pode manipular um objeto dessa forma por vez, e apenas objetos que poderia manipular com suas duas mãos.
+
+#### Operações Especiais
+* **Nv 2 - Iniciativa Aprimorada:** Você recebe +5 em Iniciativa e uma ação de movimento adicional na primeira rodada.
+* **Nv 7 - Ataque Extra:** Uma vez por rodada, quando faz um ataque, você pode gastar 2 PD para fazer um ataque adicional.
+* **Nv 11 - Surto de Adrenalina:** Uma vez por rodada, você pode gastar 5 PD para realizar uma ação padrão ou de movimento adicional.
+* **Nv 15 - Sempre Alerta:** Você recebe uma ação padrão adicional no início de cada cena de combate.
+
+#### Tropa de Choque
+* **Nv 2 - Casca Grossa:** Você recebe +1 PV para cada 5% de NEX e, quando faz um bloqueio, soma seu Vigor na resistência a dano recebida.
+* **Nv 7 - Cai Dentro:** Sempre que um oponente em alcance curto ataca um de seus aliados, você pode gastar uma reação e 1 PD para fazer com que esse oponente faça um teste de Vontade (DT Vig). Se falhar, o oponente deve atacar você em vez de seu aliado. Este poder só funciona se você puder ser efetivamente atacado e estiver no alcance do ataque (por exemplo, adjacente a um oponente atacando em corpo a corpo ou dentro do alcance de uma arma de ataque à distância). Um oponente que passe no teste de Vontade não pode ser afetado por seu poder Cai Dentro até o final da cena.
+* **Nv 11 - Duro de Matar:** Ao sofrer dano não paranormal, você pode gastar uma reação e 2 PD para reduzir esse dano à metade. Em Nv 17, você pode usar esta habilidade para reduzir dano paranormal.
+* **Nv 15 - Inquebrável:** Enquanto estiver machucado, você recebe +5 na Defesa e resistência a dano 5. Enquanto estiver morrendo, em vez do normal, você não fica indefeso e ainda pode realizar ações. Você ainda segue as regras de morte normalmente.
 
 ## Especialista
 
@@ -346,11 +153,13 @@ manipular com suas duas mãos.
 ---
 
 # Poderes por Níveis
+* **Grau de Treinamento:** No Nv 7, e novamente no Nv 14, escolha um número de perícias treinadas igual a 2 + Int. Seu grau de treinamento nessas perícias aumenta em um (de treinado para veterano ou de veterano para expert).
+* **Versatilidade:** Em Níveis específicos, você pode escolher entre receber um poder de classe ou um poder de uma trilha que não a sua. A cada Versatilidade, você pode pegar o poder de trilha correspondente (ou seja, no primeiro Versatilidade, você pode pegar o primeiro poder de uma trilha, no segundo Versatilidade, você pode pegar o primeiro ou o segundo poder de uma trilha, e assim por diante. Não é necessário pegar sempre poderes de uma mesma trilha).
 
 ---
 
 # Poderes Gerais
-- Treinamento em Perícia:
+* **Treinamento em Perícia:** Escolha duas perícias. Você se torna treinado nessas perícias. A partir de Nv 7, você pode escolher perícias nas quais já é treinado para se tornar veterano. A partir de Nv 14, pode escolher perícias nas quais já é veterano para se tornar expert. Você pode escolher este poder várias vezes.
 
 ---
 
