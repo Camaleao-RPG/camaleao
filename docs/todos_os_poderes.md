@@ -39,7 +39,7 @@
 * * _Amplo:_ O ataque pode atingir um alvo adicional em seu alcance e adjacente ao original (use o mesmo teste de ataque para ambos). 
 * * _Destruidor:_ Aumenta o multiplicador de crítico da arma em +1.
 * **Nv 11 - Técnica Sublime:** Você adiciona os seguintes efeitos à lista de sua Técnica Secreta: 
-* * _Letal:_ Aumenta a margem de ameaça em +2. Você pode escolher este efeito duas vezes para aumentar a margem de ameaça em +5. 
+** _Letal:_ Aumenta a margem de ameaça em +2. Você pode escolher este efeito duas vezes para aumentar a margem de ameaça em +5. 
 * * _Perfurante:_ Ignora até 5 pontos de resistência a dano de qualquer tipo do alvo.
 * **Nv 15 - Máquina de Matar:** A categoria da arma favorita passa a ser reduzida em III, ela recebe +2 na margem de ameaça e seu dano aumenta em um dado do mesmo tipo.
 
