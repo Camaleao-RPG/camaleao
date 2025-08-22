@@ -35,7 +35,7 @@ A Afinidade agora é medida em estágios e é usada como pré-requisito para alg
 | Estágio | Efeito Positivo (Afinidade) | Efeito Negativo (Vulnerabilidade)                                                                                   |
 | ------- | ----------------------------------------------- | ------------------------------------------------- |
 | I       | Cumpre o requerimento de "Afinidade" para poderes e rituais (a menos que o requerimento seja explicitamente "Afinidade II"). | Desvantagem em testes de resistência contra efeitos de **medo** de ameaças do elemento opressor. |
-| II      | não precisa de componentes pra conjurar rituais desse elemento e ganha +1d20 no teste de Ocultismo. |Desvantagem em **todos** os testes contra efeitos do elemento opressor. |
+| II      | Remove a necessidade de componentes pra conjurar rituais desse elemento e concede +1D20 no teste de Ocultismo. |Desvantagem em **todos** os testes contra efeitos do elemento opressor. |
 
 ---
 
