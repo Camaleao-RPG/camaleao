@@ -268,7 +268,8 @@ _Especial: esta trilha usa a “Progressão de NEx”. O personagem recebe todas
 # Poderes de NEx
 
 * **Fome do Outro Lado:** Pode consumir partes de criaturas. Até se alimentar novamente de outra criatura, recebe **RD 4** contra o elemento, mas adquire **vulnerabilidade** ao elemento opressor. Ganha **+3% de NEX** e sofre **-1 PD permanente** toda vez que fizer isso.
-* **Envolto em Mistério:** Recebe **+2** em **Enganação** e **Intimidação** contra pessoas não treinadas em Ocultismo (*“virgens do paranormal”*).* **Intuição Paranormal:** 1 vez por cena de investigação, pode substituir teste de investigação por um teste de ocultismo (à escolha).
+* **Envolto em Mistério:** Recebe **+2** em **Enganação** e **Intimidação** contra pessoas não treinadas em Ocultismo (*“virgens do paranormal”*).
+* **Intuição Paranormal:** 1 vez por cena de investigação, pode substituir teste de investigação por um teste de ocultismo (à escolha).
 * **Deixe os Sussurros Guiarem:** 1 vez por cena, pagando **2 PD** e uma rodada, recebe **+1** em todos os testes de perícias de investigação até o fim da cena. Entretanto, a cada 2 falhas nesses testes, perde **1 PD**.
 * **Nos Olhos do Monstro:** Gastando **3 PD**, encara uma criatura paranormal e recebe **+2** em testes contra ela.
 * **Olhar Sinistro:** Impõe sua própria vontade: pode usar **PRE** no lugar de **INT** para testes de Ocultismo e pode coagir. Também substitui INT por PRE no cálculo de limite de rituais (por exemplo, INT x 3 vira PRE x 3). 
