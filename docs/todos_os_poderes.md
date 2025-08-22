@@ -1,10 +1,8 @@
-# Poderes
+# Poderes de Classe
 
-## Poderes de Classe
+## Combatente
 
-### Combatente
-
-#### Poderes de Combatente
+### Poderes de Combatente
 * **Armamento Pesado:** Você recebe proficiência com armas pesadas. _Pré-requisito:_ For 2.
 * **Ataque de Oportunidade:** Sempre que um ser sair voluntariamente de um espaço adjacente ao seu, você pode gastar uma reação e 1 PD para fazer um ataque corpo a corpo contra ele.
 * **Combate Defensivo:** Quando usa a ação agredir, você pode combater defensivamente. Se fizer isso, até seu próximo turno, sofre –1D20 em todos os testes de ataque, mas recebe +5 na Defesa. _Pré-requisito:_ Int 2.
@@ -30,30 +28,15 @@
 * **Sem Tempo, Irmão:** Você sabe que pistas são importantes, mas com o paranormal podendo surgir a qualquer momento, cada segundo conta. Uma vez por cena de investigação, quando usa a ação facilitar investigação (OPRPG, p. 80), você pode prestar ajuda de forma apressada e descuidada. Você passa automaticamente no teste para auxiliar seus aliados, mas faz uma rolagem adicional na tabela de eventos de investigação (p. 82).
 * **Valentão:** Em algum momento, a vida lhe ensinou que a brutalidade pode ser amedrontadora, e agora esse é seu principal idioma. Você pode usar Força no lugar de Presença para Intimidação. Além disso, uma vez por cena, pode gastar 1 PD para fazer um teste de Intimidação para assustar como uma ação livre.
 
-#### Poderes de Trilha
+### Poderes de Trilha
 
-##### Aniqulador
+#### Aniqulador
 * **Nv 2 - A Favorita:** Escolha uma arma para ser sua favorita, como katana ou fuzil de assalto. A categoria da arma escolhida é reduzida em I.
 * **Nv 7 - Técnica Secreta:** A categoria da arma favorita passa a ser reduzida em II. Quando faz um ataque com ela, você pode gastar 2 PD para executar um dos efeitos a seguir como parte do ataque. Você pode adicionar mais efeitos gastando +2 PD por efeito adicional. _Amplo:_ O ataque pode atingir um alvo adicional em seu alcance e adjacente ao original (use o mesmo teste de ataque para ambos). _Destruidor:_ Aumenta o multiplicador de crítico da arma em +1.
-NEX 11 - Técnica Sublime. Você adiciona os
-seguintes efeitos à lista de sua Técnica Secreta:
-b Letal. Aumenta a margem de ameaça em +2.
-Você pode escolher este efeito duas vezes para
-aumentar a margem de ameaça em +5.
-b Perfurante. Ignora até 5 pontos de resistência a
-dano de qualquer tipo do alvo.
-NEX 15 Máquina de Matar. A categoria da
-arma favorita passa a ser reduzida em III, ela recebe
-+2 na margem de ameaça e seu dano aumenta em
-um dado do mesmo tipo.
-Comandante de Campo
-Sem um oficial uma batalha não passa de uma briga
-de bar. Você é treinado para coordenar e auxiliar
-seus companheiros em combate, tomando decisões
-26
-Ivan Soares ivevso@yahoo.com.br
-rápidas e tirando melhor proveito da situação e do
-talento de seus aliados.
+* **Nv 11 - Técnica Sublime:** Você adiciona os seguintes efeitos à lista de sua Técnica Secreta: _Letal:_ Aumenta a margem de ameaça em +2. Você pode escolher este efeito duas vezes para aumentar a margem de ameaça em +5. _Perfurante:_ Ignora até 5 pontos de resistência a dano de qualquer tipo do alvo.
+* **Nv 15 - Máquina de Matar:** A categoria da arma favorita passa a ser reduzida em III, ela recebe +2 na margem de ameaça e seu dano aumenta em um dado do mesmo tipo.
+
+#### Comandante de Campo
 NEX 10% - Inspirar Confiança. Sua liderança
 inspira seus aliados. Você pode gastar uma reação
 e 2 PE para fazer um aliado em alcance curto rolar
@@ -74,11 +57,8 @@ NEX 99% - Oficial Comandante. Você pode
 gastar uma ação padrão e 5 PE para que cada aliado
 que você possa ver em alcance médio receba uma
 ação padrão adicional no próximo turno dele.
-Guerreiro
-Você treinou sua musculatura e movimentos a ponto
-de transformar seu corpo em uma verdadeira arma.
-Com golpes corpo a corpo tão poderosos quanto
-uma bala, você enfrenta inimigos sem medo.
+
+#### Guerreiro
 NEX 10% - Técnica Letal. Você recebe um au-
 mento de +2 na margem de ameaça com todos os
 seus ataques corpo a corpo.
@@ -99,11 +79,8 @@ Ataque Especial com armas corpo a corpo, todos os
 bônus numéricos são dobrados. Por exemplo, se usar
 5 PE para receber +5 no ataque e +15 no dano, você
 recebe +10 no ataque e +30 no dano.
-Operações Especiais
-Você é um combatente eficaz. Suas ações são calcula-
-das e otimizadas, sempre antevendo os movimentos
-inimigos e se posicionando da maneira mais inteli-
-gente no campo de batalha.
+
+#### Operações Especiais
 NEX 10% - Iniciativa Aprimorada. Você recebe
 +5 em Iniciativa e uma ação de movimento adicional
 na primeira rodada.
@@ -115,11 +92,8 @@ rodada, você pode gastar 5 PE para realizar uma ação
 padrão ou de movimento adicional.
 NEX 99% - Sempre Alerta. Você recebe uma ação
 padrão adicional no início de cada cena de combate.
-Tropa de Choque
-Você é duro na queda. Treinou seu corpo para re-
-sistir a traumas f ísicos, tornando-o praticamente
-inquebrável, e por isso não teme se colocar entre seus
-aliados e o perigo.
+
+#### Tropa de Choque
 NEX 10% - Casca Grossa. Você recebe +1 PV para
 cada 5% de NEX e, quando faz um bloqueio, soma
 seu Vigor na resistência a dano recebida.
@@ -145,28 +119,27 @@ cado, você recebe +5 na Defesa e resistência a dano
 você não fica indefeso e ainda pode realizar ações.
 Você ainda segue as regras de morte normalmente.
 
-#####
 
 ---
 
-### Especialista
+## Especialista
 
 ---
 
-### Ocultista
+## Ocultista
 
 ---
 
-### Sobrevivente
+## Sobrevivente
 
 ---
 
-## Poderes Gerais
+# Poderes Gerais
 
 ---
 
-## Poderes de NEx
+# Poderes de NEx
 
 ---
 
-## Rituais
+# Rituais
