@@ -161,350 +161,61 @@ _Especial: esta trilha usa a “Progressão de NEx”. O personagem recebe todas
 # Poderes Gerais
 Poderes gerais são poderes que todos os personagens podem pegar ao aumentar de nível, uma vez cumpridos os pré-requisitos. Também são os poderes escolhidos na hora de montar sua origem.
 
-* **110%:* Teste de perícia **FOR** ou **AGI**, 2 PD = +2 no teste. _Pré-requisito:_ FOR 2 ou AGI 2, Acrobacia ou Atletismo
+* **110%:* Teste de perícia **FOR** ou **AGI**, 2 PD = +2 no teste. _Pré-requisito:_ FOR 2 ou AGI 2, Acrobacia ou Atletismo. 
 * **Acostumado ao Extremo:** Ao sofrer dano de fogo, frio ou mental: 1 PD para RD 4. Cada uso adicional na mesma cena custa +1 PD. _Pré-requisito:_ Fortidude.
-* **Acalentar:** +2 em Religião para acalmar. Ao acalmar, recupera **+1d4 + PRE PD**.
-
-_Pré-requisito:_ PRE 2, Religião
-
----
-
-### Acrobático
-
-**FOR** → **AGI** em Atletismo. Terreno difícil não afeta deslocamento nem impede investida.
-
-_Pré-requisito:_ AGI 2, Atletismo
-
----
-
-### Atraente
-
-+2 em Artes, Diplomacia, Enganação e Intimidação contra pessoas que possam se sentir fisicamente atraídas por você.
-
-_Pré-requisito:_ PRE 2, 1 perícia citada
-
----
-
-### Artista Marcial
-
-Ataques desarmados causam 1d6 de dano, podem causar dano letal e contam como armas ágeis.
-Nv 7 → 1d8 de dano; Nv 14 → 1d10.
-
----
-
-### Bater sem Machucar
-
-Pode escolher causar dano não letal, sem desvantagem.
-
----
-
-### Busca Interior
-
-Quando o grupo estiver perdido, 1 PD para receber uma dica do mestre (1 ou 2 vezes por missão).
-
----
-
-### Calejado
-
-+2 PV por nível.
-
----
-
-### Cicatrizes Psicológicas
-
-+1d20 em testes de Vontade contra efeitos de medo (incluindo presença perturbadora e dano mental de criaturas de medo).
-
-_Pré-requisito:_ Vontade
-
----
-
-### Combater com Duas Armas
-
-Duas armas leves. Vantagem no primeiro ataque, 1x por rodada. Pode usar uma arma de uma mão que não seja leve se possuir FOR 3 ou maior. Nesse caso, role o dado das duas armas e escolha um dos resultados.
-
-_Pré-requisito:_ AGI 2
-
----
-
-### Comandar
-
-1 ação + 1 PD por personagem = +1 em testes de perícia para outros personagens até o fim da cena.
-
-_Pré-requisito:_ PRE 2, 1 perícia (Diplomacia, Intimidação, Religião)
-
----
-
-### Companheiro Animal
-
-Entende intenções e sentimentos de animais; pode usar Adestramento para mudar atitude deles. Possui um **aliado animal iniciante**.
-Nv 7 → Veterano; Nv 14 → Mestre ou +1 tipo.
-Se ele morrer: -7 PD permanente e fica perturbado até o fim da cena.
-
-_Pré-requisito:_ Adestramento
-
----
-
-### Conexões
-
-+1 em Diplomacia. Se contratar um NPC, substitui a perícia exigida por Diplomacia.
-
-_Pré-requisito:_ Diplomacia
-
----
-
-### Conhecimento Oculto
-
-Pode identificar criatura (Ocultismo) a partir de pistas, imagens, etc. Se passar, +1 em testes contra a criatura até o fim da missão.
-
-_Pré-requisito:_ Ocultismo
-
----
-
-### Contato
-
-1x por missão, pode pedir ajuda a um aliado do tipo Mestre.
-
----
-
-### Coração Heroico
-
-+4 PD por patente.
-
----
-
-### Costas Largas
-
-Limite de carga +5. Pode vestir um item adicional.
-
----
-
-### Crime Compensa
-
-No final da missão, pode escolher um item para o inventário **sem contar no limite**.
-
----
-
-### Cultura Exótica
-
-1 PD para ignorar o pré-requisito “somente treinado” em uma perícia e +1 no teste.
-
----
-
-### Culpa é das Estrelas
-
-No início da cena, gaste 1 PD e escolha números de 1 a 6 (acumulam entre cenas). +1 em perícias até o fim da cena quando tirar algum desses números no dado.
-
----
-
-### Desejo de Liberdade
-
-+2 em testes de manobras e efeitos de movimento.
-
----
-
-### Desbravador
-
-Adestramento ou Sobrevivência, 2 PD = +2 no teste. Não sofre penalidade por terreno difícil.
-
-_Pré-requisito:_ Adestramento ou Sobrevivência
-
----
-
-### Detetive
-
-2 PD → rolar Investigação para Percepção ou Intuição até o fim da cena.
-
----
-
-### Detector de Mentiras
-
-Treinamento ou +1 em Intuição. -4 em Enganação para mentir para você.
-
----
-
-### Dedos Ágeis
-
-Treinamento ou +1 em Crime. Pode arrombar com 1 ação, furtar como ação livre (1x por rodada) e sabotar com 3 ações.
-
----
-
-### Dom Artístico
-
-Treinamento ou +1 em Artes; bônus de perícias sobe para +2 quando impressionar.
-
----
-
-### Especialista em Emergências
-
-Com Medicina, cicatrizantes e medicamentos: usar com ação de movimento. Sacar um desses itens como ação livre uma vez por rodada.
-
----
-
-### Espírito Cívico
-
-Em teste coletivo, pode gastar 1 PD para cada aliado que deseja para conceder +1 ao teste.
-
----
-
-### Esforçado
-
-+1 em todos os testes estendidos de qualquer perícia.
-
----
-
-### Estoico
-
-Descanso conta como se fosse uma categoria acima.
-
----
-
-### Estigmado
-
-Converte dano mental de medo em PV.
-
----
-
-### Faro para Pistas
-
-1x por cena, para procurar pistas, 1 PD = +2 no teste.
-
----
-
-### Ferramenta Favorita
-
-Item (exceto arma) de 1 categoria abaixo que **não ocupa espaço** no inventário.
-
----
-
-### Ferramentas de Trabalho
-
-Proficiência com arma simples ou tática que seja ferramenta de sua profissão. +1 em dano e 1 modificação.
-
----
-
-### Foco em Perícia
-
-+1d20 em testes da perícia escolhida.
-
-_Pré-requisito:_ treinado na perícia
-
----
-
-### Fotógrafo
-
-Investigação ou Percepção (olhando ou vendo fotos): 2 PD = +2 no teste. Se andar olhando pela câmera, deslocamento reduzido à metade.
-
----
-
-### Fôlego de Nadador
-
-+3 PV por patente. Pode prender respiração por tempo igual ao dobro de VIG. Atletismo para natação ignora penalidade de deslocamento reduzido à metade.
-
----
-
-### Gambiarra
-
-1x por cena, improvisa um item de até categoria I (1 uso).
-
----
-
-### Herança
-
-Recebe 1 item de categoria II (arma de categoria I).
-
----
-
-### Impostor
-
-2 PD para, a critério do mestre, substituir qualquer teste por um de Enganação.
-
----
-
-### Informado
-
-Com Atualidades, a critério do mestre, pode substituir outra perícia por Atualidades para obter informações.
-
----
-
-### Ingrediente Secreto
-
-Durante interlúdio, ao alimentar-se, todos que comerem recebem o benefício de **2 pratos** (efeitos acumulam).
-
----
-
-### Intimidador
-
-Com Intimidação, pode coagir com uma ação (1x por cena contra a mesma pessoa).
-
----
-
-### Invenção Paranormal
-
-Invenção que imita efeito de um ritual. DT cresce conforme categoria do ritual a cada uso na mesma missão (1 em 1 para categoria I, 2 em 2 para categoria II, 4 em 4 para categoria III e assim por diante). Não consome PD. Falha → enguiça. Pode trocar ritual entre missões.
-
----
-
-### Inventário Organizado
-
-+INT espaços de carga; componentes e munições passam a ocupar meio de espaço e itens de meio espaço passam a ocupar ¼ de espaço.
-
----
-
-### Lobo Solitário
-
-+1 em testes de perícia e defesa se estiver sem aliados por perto. Pode usar Medicina em si mesmo sem penalidade.
-
----
-
-### Luta ou Fuga
-
-+1 em Vontade. Referência a premonição: +1d4 PD temporário.
-
-_Pré-requisito:_ Vontade
-
----
-
-### Luto Habitual
-
-Metade do dano mental ao qual está acostumado. Com Medicina (primeiros socorros ou necropsia): 2 PD = +2 no teste.
-
----
-
-### Magnum Opus
-
-É famoso de algum jeito. 1x por missão, pode determinar que um personagem te reconheça. +2 em PRE e perícias baseadas em PRE contra ele. A critério do mestre, pode receber esse bônus em outras situações de reconhecimento.
-
----
-
-### Manual do Sobrevivente
-
-Armadilhas, clima, doenças, fome, sede, fumaça, sono, sufocamento, veneno (paranormal ou não): 2 PD = +2 no teste. Sono precário → normal.
-
----
-
-### Mapa Celeste
-
-Sempre sabe os pontos cardeais e não se perde se puder ver o céu. Pode chegar a qualquer lugar. Com Sobrevivência: 2 PD para refazer o teste. Sono precário → normal.
-
----
-
-### Mão Pesada
-
-+2 em rolagens de dano corpo a corpo.
-
----
-
-### Mãos no Volante
-
-Não sofre penalidade em ataques disparados de veículo em movimento. 2 PD = +4 em Pilotagem.
-
-_Obs.: pilotagem é um teste muito específico, por isso aumentamos o bônus para destacar esse poder._
-
----
-
-### Membro de (X)
-
-Hospedagem confortável, transporte e informação em (X) para você e aliados.
+* **Acalentar:** +2 em Religião para acalmar. Ao acalmar, recupera **+1d4 + PRE PD**. _Pré-requisito:_ PRE 2, Religião. 
+* **Acrobático:** **FOR** → **AGI** em Atletismo. Terreno difícil não afeta deslocamento nem impede investida. _Pré-requisito:_ AGI 2, Atletismo. 
+* **Atraente:** +2 em Artes, Diplomacia, Enganação e Intimidação contra pessoas que possam se sentir fisicamente atraídas por você. _Pré-requisito:_ PRE 2, 1 perícia citada. 
+* **Artista Marcial:** Ataques desarmados causam 1d6 de dano, podem causar dano letal e contam como armas ágeis. Nv 7 → 1d8 de dano; Nv 14 → 1d10.
+* **Bater sem Machucar:** Pode escolher causar dano não letal, sem desvantagem.
+* **Busca Interior:** Quando o grupo estiver perdido, 1 PD para receber uma dica do mestre (1 ou 2 vezes por missão).
+* **Calejado:** +2 PV por Nível.
+* **Cicatrizes Psicológicas:** +1D20 em testes de Vontade contra efeitos de medo (incluindo presença perturbadora e dano mental de criaturas de medo). _Pré-requisito:_ Vontade. 
+* **Combater com Duas Armas:** Duas armas leves. Vantagem no primeiro ataque, 1x por rodada. Pode usar uma arma de uma mão que não seja leve se possuir FOR 3 ou maior. Nesse caso, role o dado das duas armas e escolha um dos resultados. _Pré-requisito:_ AGI 2. 
+* **Comandar:** 1 ação + 1 PD por personagem = +1 em testes de perícia para outros personagens até o fim da cena. _Pré-requisito:_ PRE 2, 1 perícia (Diplomacia, Intimidação, Religião). 
+* **Companheiro Animal:** Entende intenções e sentimentos de animais; pode usar Adestramento para mudar atitude deles. Possui um **aliado animal iniciante**. Nv 7 → Veterano; Nv 14 → Mestre ou +1 tipo. Se ele morrer: -7 PD permanente e fica perturbado até o fim da cena. _Pré-requisito:_ Adestramento. 
+* **Conexões:** +1 em Diplomacia. Se contratar um NPC, substitui a perícia exigida por Diplomacia. _Pré-requisito:_ Diplomacia. 
+* **Conhecimento Oculto:** Pode identificar criatura (Ocultismo) a partir de pistas, imagens, etc. Se passar, +1 em testes contra a criatura até o fim da missão. _Pré-requisito:_ Ocultismo. 
+* **Contato:** 1x por missão, pode pedir ajuda a um aliado do tipo Mestre.
+* **Coração Heroico:** +4 PD por patente.
+* **Costas Largas:** Limite de carga +5. Pode vestir um item adicional.
+* **Crime Compensa:** No final da missão, pode escolher um item para o inventário **sem contar no limite**.
+* **Cultura Exótica:** 1 PD para ignorar o pré-requisito “somente treinado” em uma perícia e +1 no teste.
+* **Culpa é das Estrelas:** No início da cena, gaste 1 PD e escolha números de 1 a 6 (acumulam entre cenas). +1 em perícias até o fim da cena quando tirar algum desses números no dado.
+* **Desejo de Liberdade:** +2 em testes de manobras e efeitos de movimento.
+* **Desbravador:** Adestramento ou Sobrevivência, 2 PD = +2 no teste. Não sofre penalidade por terreno difícil. _Pré-requisito:_ Adestramento ou Sobrevivência. 
+* **Detetive:** 2 PD → rolar Investigação para Percepção ou Intuição até o fim da cena.
+* **Detector de Mentiras:** Treinamento ou +1 em Intuição. -4 em Enganação para mentir para você.
+* **Dedos Ágeis:** Treinamento ou +1 em Crime. Pode arrombar com 1 ação, furtar como ação livre (1x por rodada) e sabotar com 3 ações.
+* **Dom Artístico:** Treinamento ou +1 em Artes; bônus de perícias sobe para +2 quando impressionar.
+* **Especialista em Emergências:** Com Medicina, cicatrizantes e medicamentos: usar com ação de movimento. Sacar um desses itens como ação livre uma vez por rodada.
+* **Espírito Cívico:** Em teste coletivo, pode gastar 1 PD para cada aliado que deseja para conceder +1 ao teste.
+* **Esforçado:** +1 em todos os testes estendidos de qualquer perícia.
+* **Estoico:** Descanso conta como se fosse uma categoria acima.
+* **Estigmado:** Converte dano mental de medo em PV.
+* **Faro para Pistas:** 1x por cena, para procurar pistas, 1 PD = +2 no teste.
+* **Ferramenta Favorita:**Item (exceto arma) de 1 categoria abaixo que **não ocupa espaço** no inventário.
+* **Ferramentas de Trabalho:** Proficiência com arma simples ou tática que seja ferramenta de sua profissão. +1 em dano e 1 modificação.
+* **Foco em Perícia:** +1D20 em testes da perícia escolhida. _Pré-requisito:_ treinado na perícia. 
+* **Fotógrafo:** Investigação ou Percepção (olhando ou vendo fotos): 2 PD = +2 no teste. Se andar olhando pela câmera, deslocamento reduzido à metade.
+* **Fôlego de Nadador:** +3 PV por patente. Pode prender respiração por tempo igual ao dobro de VIG. Atletismo para natação ignora penalidade de deslocamento reduzido à metade.
+* **Gambiarra:** 1x por cena, improvisa um item de até categoria I (1 uso).
+* **Herança:** Recebe 1 item de categoria II (arma de categoria I).
+* **Impostor:** 2 PD para, a critério do mestre, substituir qualquer teste por um de Enganação.
+* **Informado:** Com Atualidades, a critério do mestre, pode substituir outra perícia por Atualidades para obter informações.
+* **Ingrediente Secreto:** Durante interlúdio, ao alimentar-se, todos que comerem recebem o benefício de **2 pratos** (efeitos acumulam).
+* **Intimidador:** Com Intimidação, pode coagir com uma ação (1x por cena contra a mesma pessoa).
+* **Invenção Paranormal:** Invenção que imita efeito de um ritual. DT cresce conforme categoria do ritual a cada uso na mesma missão (1 em 1 para categoria I, 2 em 2 para categoria II, 4 em 4 para categoria III e assim por diante). Não consome PD. Falha → enguiça. Pode trocar ritual entre missões.
+* **Inventário Organizado:** +INT espaços de carga; componentes e munições passam a ocupar meio de espaço e itens de meio espaço passam a ocupar ¼ de espaço.
+* **Lobo Solitário:** +1 em testes de perícia e defesa se estiver sem aliados por perto. Pode usar Medicina em si mesmo sem penalidade.
+* **Luta ou Fuga:** +1 em Vontade. Referência a premonição: +1d4 PD temporário. _Pré-requisito:_ Vontade. 
+* **Luto Habitual:** Metade do dano mental ao qual está acostumado. Com Medicina (primeiros socorros ou necropsia): 2 PD = +2 no teste.
+* **Magnum Opus:** É famoso de algum jeito. 1x por missão, pode determinar que um personagem te reconheça. +2 em PRE e perícias baseadas em PRE contra ele. A critério do mestre, pode receber esse bônus em outras situações de reconhecimento.
+* **Manual do Sobrevivente:** Armadilhas, clima, doenças, fome, sede, fumaça, sono, sufocamento, veneno (paranormal ou não): 2 PD = +2 no teste. Sono precário → normal.
+* **Mapa Celeste:** Sempre sabe os pontos cardeais e não se perde se puder ver o céu. Pode chegar a qualquer lugar. Com Sobrevivência: 2 PD para refazer o teste. Sono precário → normal.
+* **Mão Pesada:** +2 em rolagens de dano corpo a corpo.
+* **Mãos no Volante:** Não sofre penalidade em ataques disparados de veículo em movimento. 2 PD = +4 em Pilotagem. _Obs.: pilotagem é um teste muito específico, por isso aumentamos o bônus para destacar esse poder._
+* **Membro de (X):** Hospedagem confortável, transporte e informação em (X) para você e aliados.
 
 ---
 
@@ -744,41 +455,13 @@ Com arma de disparo, adiciona AGI na rolagem de dano e ignora penalidade contra 
 
 ---
 
-### Traços do Outro Lado
-
-Poder paranormal à escolha, mas começa com metade dos PD (apenas inicial).
-
+* **Traços do Outro Lado:** Poder paranormal à escolha, mas começa com metade dos PD (apenas inicial).
 * **Treinamento em Perícia:** Escolha duas perícias. Você se torna treinado nessas perícias. A partir de Nv 7, você pode escolher perícias nas quais já é treinado para se tornar veterano. A partir de Nv 14, pode escolher perícias nas quais já é veterano para se tornar expert. Você pode escolher este poder várias vezes.
-
----
-
-### Truque de Mágica
-
-2 PD + teste de Enganação, Artes ou perícia apropriada para lançar efeito semelhante a **Enfeitiçar**.
-
----
-
-### Universitário
-
-+1 PD por nível ímpar e +1 no limite de PD.
-
----
-
-### Vitalidade Reforçada
-
-+1 PV por nível ímpar, +1 capacidade de ferida e +1 em Fortitude.
-
----
-
-### Vislumbres do Passado
-
-Teste de INT DT 10 para reconhecer pessoas ou lugares. Se passar: +1d4 PD temporário e, a critério do mestre, informação útil.
-
----
-
-### Vontade Inabalável
-
-+1 PD por nível ímpar e +2 em Vontade.
+* **Truque de Mágica:** 2 PD + teste de Enganação, Artes ou perícia apropriada para lançar efeito semelhante a **Enfeitiçar**.
+* **Universitário:** +1 PD por nível ímpar e +1 no limite de PD.
+* **Vitalidade Reforçada:** +1 PV por nível ímpar, +1 capacidade de ferida e +1 em Fortitude.
+* **Vislumbres do Passado:** Teste de INT DT 10 para reconhecer pessoas ou lugares. Se passar: +1d4 PD temporário e, a critério do mestre, informação útil.
+* **Vontade Inabalável:** +1 PD por nível ímpar e +2 em Vontade.
 
 ---
 
