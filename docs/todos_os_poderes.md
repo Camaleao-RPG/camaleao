@@ -37,31 +37,13 @@
 * **Nv 15 - Máquina de Matar:** A categoria da arma favorita passa a ser reduzida em III, ela recebe +2 na margem de ameaça e seu dano aumenta em um dado do mesmo tipo.
 
 #### Comandante de Campo
-NEX 10% - Inspirar Confiança. Sua liderança
-inspira seus aliados. Você pode gastar uma reação
-e 2 PE para fazer um aliado em alcance curto rolar
-novamente um teste recém realizado.
-NEX 40% - Estrategista. Você pode direcionar
-aliados em alcance curto. Gaste uma ação padrão e
-1 PE por aliado que quiser direcionar (limitado pelo
-seu Intelecto). No próximo turno dos aliados afeta-
-dos, eles ganham uma ação de movimento adicional.
-NEX 65% - Brecha na Guarda. Uma vez por ro-
-dada, quando um aliado causar dano em um inimigo
-que esteja em seu alcance curto, você pode gastar
-uma reação e 2 PE para que você ou outro aliado
-em alcance curto faça um ataque adicional contra
-o mesmo inimigo. Além disso, o alcance de inspirar
-confiança e estrategista aumenta para médio.
-NEX 99% - Oficial Comandante. Você pode
-gastar uma ação padrão e 5 PE para que cada aliado
-que você possa ver em alcance médio receba uma
-ação padrão adicional no próximo turno dele.
+* **Nv 2 - Inspirar Confiança:** Sua liderança inspira seus aliados. Você pode gastar uma reação e 2 PD para fazer um aliado em alcance curto rolar novamente um teste recém realizado.
+* **Nv 7 - Estrategista:** Você pode direcionar aliados em alcance curto. Gaste uma ação padrão e 1 PD por aliado que quiser direcionar (limitado pelo seu Intelecto). No próximo turno dos aliados afetados, eles ganham uma ação de movimento adicional.
+* **Nv 11 - Brecha na Guarda:** Uma vez por rodada, quando um aliado causar dano em um inimigo que esteja em seu alcance curto, você pode gastar uma reação e 2 PD para que você ou outro aliado em alcance curto faça um ataque adicional contra o mesmo inimigo. Além disso, o alcance de inspirar confiança e estrategista aumenta para médio.
+* **Nv 15 - Oficial Comandante:** Você pode gastar uma ação padrão e 5 PD para que cada aliado que você possa ver em alcance médio receba uma ação padrão adicional no próximo turno dele.
 
 #### Guerreiro
-NEX 10% - Técnica Letal. Você recebe um au-
-mento de +2 na margem de ameaça com todos os
-seus ataques corpo a corpo.
+* **Nv 2 - Técnica Letal:** Você recebe um aumento de +2 na margem de ameaça com todos os seus ataques corpo a corpo.
 NEX 40% - Revidar. Sempre que bloquear um ata-
 que, você pode gastar uma reação e 2 PE para fazer
 um ataque corpo a corpo no inimigo que o atacou.
@@ -120,17 +102,23 @@ você não fica indefeso e ainda pode realizar ações.
 Você ainda segue as regras de morte normalmente.
 
 
----
-
 ## Especialista
 
----
+### Poderes de Especialista
+
+### Poderes de Trilha
 
 ## Ocultista
 
----
+### Poderes de Ocultista
+
+### Poderes de Trilha
 
 ## Sobrevivente
+
+### Poderes de Sobrevivente
+
+### Poderes de Trilha
 
 ---
 
