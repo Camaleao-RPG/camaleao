@@ -33,13 +33,19 @@
 
 ### Poderes de Trilha
 
+AGENTE SECRETO
+* **Nv 2 - Carteirada:** Escolha uma perícia entre Diplomacia ou Enganação. Você recebe treinamento na perícia escolhida ou, se já for treinado, recebe +2 nela. Como parte do esforço conjunto da sua agência e da Ordem, no início de cada missão você recebe documentos que lhe fornecem privilégios jurídicos especiais. Esses documentos podem incluir a sua identidade verdadeira ou não, e podem ser individuais ou incluir os demais membros da sua equipe (conforme apropriado à missão). Os benefícios específicos desses documentos ficam a critério do mestre, mas em geral incluem acesso a locais restritos ou proibidos, permissão para portar armas de fogo e autoridade para assumir a jurisdição de investigações da polícia. Pessoas comuns não conseguem perceber que seus documentos são falsos, mas membros de agências de segurança ou indivíduos veteranos em Crime podem desconfiar de sua veracidade. Os documentos contam como itens operacionais que não ocupam espaço — mas cuidado para não perdê-los em locais onde novos não podem ser fornecidos!
+* **Nv 7 - O Sorriso:** Você recebe +2 em Diplomacia e Enganação e, quando falha em um teste de uma dessas perícias, pode gastar 2 PD para repetir a rolagem (apenas uma vez por teste), mas deve aceitar o novo resultado, mesmo que seja pior que o primeiro. Por fim, uma vez por cena, você pode fazer um teste de Diplomacia para acalmar a si mesmo.
+* **Nv 11 - Método Investigativo:** A urgência de qualquer cena de investigação em que você esteja presente aumenta em 1 rodada. Além disso, quando o mestre faz uma rolagem na tabela de eventos de investigação, você pode gastar 2 PD para transformar o resultado em “sem evento”. Você pode usar este efeito mais de uma vez na mesma cena, mas a cada uso adicional seu custo aumenta em +2 PD.
+* **Nv 15 - Multifacetado:** Uma vez por cena, você pode gastar 5 pontos de Determinação para receber todas as habilidades de até NEX 65% de uma trilha de combatente ou especialista à sua escolha (você deve cumprir quaisquer pré-requisitos específicos da trilha). Você pode usar essas habilidades até o fim da cena, mas não pode escolher a mesma trilha mais de uma vez na mesma missão. Os pontos de Determinação gastos para ativar essa habilidade só podem ser recuperados ao fim da missão.
+
 #### Aniqulador
 * **Nv 2 - A Favorita:** Escolha uma arma para ser sua favorita, como katana ou fuzil de assalto. A categoria da arma escolhida é reduzida em I.
 * **Nv 7 - Técnica Secreta:** A categoria da arma favorita passa a ser reduzida em II. Quando faz um ataque com ela, você pode gastar 2 PD para executar um dos efeitos a seguir como parte do ataque. Você pode adicionar mais efeitos gastando +2 PD por efeito adicional. 
 * * _Amplo:_ O ataque pode atingir um alvo adicional em seu alcance e adjacente ao original (use o mesmo teste de ataque para ambos). 
 * * _Destruidor:_ Aumenta o multiplicador de crítico da arma em +1.
 * **Nv 11 - Técnica Sublime:** Você adiciona os seguintes efeitos à lista de sua Técnica Secreta: 
-** _Letal:_ Aumenta a margem de ameaça em +2. Você pode escolher este efeito duas vezes para aumentar a margem de ameaça em +5. 
+* * _Letal:_ Aumenta a margem de ameaça em +2. Você pode escolher este efeito duas vezes para aumentar a margem de ameaça em +5. 
 * * _Perfurante:_ Ignora até 5 pontos de resistência a dano de qualquer tipo do alvo.
 * **Nv 15 - Máquina de Matar:** A categoria da arma favorita passa a ser reduzida em III, ela recebe +2 na margem de ameaça e seu dano aumenta em um dado do mesmo tipo.
 
@@ -66,59 +72,6 @@
 * **Nv 7 - Cai Dentro:** Sempre que um oponente em alcance curto ataca um de seus aliados, você pode gastar uma reação e 1 PD para fazer com que esse oponente faça um teste de Vontade (DT Vig). Se falhar, o oponente deve atacar você em vez de seu aliado. Este poder só funciona se você puder ser efetivamente atacado e estiver no alcance do ataque (por exemplo, adjacente a um oponente atacando em corpo a corpo ou dentro do alcance de uma arma de ataque à distância). Um oponente que passe no teste de Vontade não pode ser afetado por seu poder Cai Dentro até o final da cena.
 * **Nv 11 - Duro de Matar:** Ao sofrer dano não paranormal, você pode gastar uma reação e 2 PD para reduzir esse dano à metade. Em Nv 17, você pode usar esta habilidade para reduzir dano paranormal.
 * **Nv 15 - Inquebrável:** Enquanto estiver machucado, você recebe +5 na Defesa e resistência a dano 5. Enquanto estiver morrendo, em vez do normal, você não fica indefeso e ainda pode realizar ações. Você ainda segue as regras de morte normalmente.
-
-AGENTE SECRETO
-* **Nv 2 - Carteirada:** Escolha uma perícia entre Diplomacia ou Enganação. Você recebe treinamento na perícia escolhida ou, se já for treinado, recebe +2 nela. Como parte do esforço conjunto da sua agência e da Ordem, no início de cada missão você recebe documentos que lhe fornecem privilégios jurídicos especiais. Esses documentos podem incluir a sua identidade verdadeira ou não, e podem ser individuais ou incluir os demais membros da sua equipe (conforme apropriado à missão). Os benefícios específicos desses documentos ficam a critério do mestre, mas em geral incluem acesso a locais restritos ou proibidos, permissão para portar armas de fogo e autoridade para assumir a jurisdição de investigações da polícia. Pessoas comuns não conseguem perceber que seus documentos são falsos, mas membros de agências de segurança ou indivíduos veteranos em Crime podem desconfiar de sua veracidade. Os documentos contam como itens operacionais que não ocupam espaço — mas cuidado para não perdê-los em locais onde novos não podem ser fornecidos!
-NEX 40% - O Sorriso. Em seu trabalho como agente,
-você aprendeu que se manter contido com um sorriso
-“sincero” e palavras gentis são ferramentas muito
-eficientes em uma investigação. Você recebe +2 em
-Diplomacia e Enganação e, quando falha em um teste
-de uma dessas perícias, pode gastar 2 PE para repetir a
-rolagem (apenas uma vez por teste), mas deve aceitar
-o novo resultado, mesmo que seja pior que o primeiro.
-Por fim, uma vez por cena, você pode fazer um teste
-de Diplomacia para acalmar a si mesmo.
-NEX 65% - Método Investigativo. Acostumado
-a vasculhar locais em segredo, você aprendeu a ser
-rápido ou “controlar a situação” antes que coisas
-ruins aconteçam. A urgência de qualquer
-cena de investigação em que você esteja pre-
-sente aumenta em 1 rodada. Além disso,
-quando o mestre faz uma rolagem na tabela
-de eventos de investigação, você pode
-gastar 2 PE para transformar o
-resultado em “sem evento”.
-Você pode usar este efei-
-to mais de uma vez na
-mesma cena, mas a cada
-uso adicional seu custo
-aumenta em +2 PE.
-NEX 99% - Multifa-
-cetado. Viver sob vários
-disfarces tem sido útil, mas
-você faz isso há tanto tempo que
-talvez nem se lembre mais quem é
-de verdade. Essas habilidades que
-surgem quando você precisa
-foram aprendidas em disfar-
-ces anteriores, ou são apenas
-sua mente buscando uma saí-
-da? Uma vez por cena, você
-pode gastar 5 pontos de Sanidade
-para receber todas as habilidades
-de até NEX 65% de uma trilha
-de combatente ou especialista à
-sua escolha (você deve cumprir
-quaisquer pré-requisitos específi-
-cos da trilha). Você pode usar essas
-habilidades até o fim da cena, mas
-não pode escolher a mesma trilha
-mais de uma vez na mesma missão.
-Os pontos de Sanidade gastos
-para ativar essa habilidade
-só podem ser recuperados
-ao fim da missão.
 
 CAÇADOR
 NEX 10% - Rastrear o Paranormal. Você es-
