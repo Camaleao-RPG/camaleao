@@ -104,150 +104,16 @@ Você pode montar um ataque com alguns efeitos especiais que aumentam ou reduzem
 
 #### Monstruoso
 _Especial: esta trilha usa a “Progressão de NEx”. O personagem recebe todas as alterações apropriadas ao seu NEX descritas na progressão e, se a regra de Nível de Experiência estiver em uso, recebe o dobro de NEX sempre que se expõe ao paranormal._
-NEX 10% - Ser Amaldiçoado. Em suas veias corre
-uma maldição paranormal que aos poucos o está
-transformando em um monstro. Você se torna
-treinado em Ocultismo (se já for treinado, em
-vez disso recebe +2 nessa perícia). Escolha um
-elemento paranormal entre Sangue, Morte,
-Conhecimento ou Energia. Uma vez por
-dia, você precisa executar uma eta-
-pa ritualística desse elemento (por
-exemplo, beber sangue humano para
-Sangue, inalar cinzas de mortos
-para Morte, tatuar palavras que
-causam medo para Conheci-
-mento ou receber choques de
-cabos elétricos para Energia).
-Se fizer isso, até o fim do dia
-você recebe os efeitos des-
-critos a seguir, conforme o
-elemento escolhido. Caso
-contrário, você sofre de
-fome e sede nesse dia
-(OPRPG, p. 292).
-Por fim, se adquirir
-afinidade com um
-elemento, deverá
-escolher aquele
-selecionado para
-esta habilidade.
-I SANGUE Suas
-presas ficam protuberan-
-tes e seus olhos se tornam
-vermelhos. Você recebe
-resistência a balístico
-e Sangue 5 e faro e,
-quando faz um con-
-tra-ataque bem-su-
-cedido, soma seu
-Vigor na rolagem de
-dano, mas sofre –O
-em Ciências e Intuição.
-I MORTE Você fica pálido e seu metabolismo se torna
-bem mais lento. Você recebe resistência a perfuração
-e Morte 5 e imunidade a fadiga e soma sua Força em
-seu total de pontos de vida, mas sofre –O em Diplo-
-macia e Enganação.
-I CONHECIMENTO Seus olhos são banhados em
-um dourado sobrenatural. Você recebe resistência
-a balístico e Conhecimento 5 e visão no escuro e
-soma seu Intelecto na Defesa, mas sofre –O
-em Atletismo e Acrobacia.
-I ENERGIA Sua pele ganha cicatrizes de quei-
-maduras elétricas com múltiplas cores. Você
-recebe resistência a corte, eletricidade, fogo
-e Energia 5 e soma sua Agilidade na RD re-
-cebida por um bloqueio
-bem-sucedido, mas
-sofre –O em Investi-
-gação e Percepção.
-NEX 40% - Ser Ma-
-cabro. Conforme sua
-humanidade é substi-
-tuída pela Entidade, as
-mudanças em seu corpo
-e mente se intensificam.
-A resistência a dano que
-você recebe por execu-
-tar a etapa ritualística
-de seu elemento aumen-
-ta para 10, enquanto a
-penalidade em perícias
-aumenta para –2O. Por
-fim, quando executa
-sua etapa ritualística,
-você recebe os efeitos
-adicionais incluídos na
-descrição de seu elemen-
-to, a seguir.
-I SANGUE Você veste poucas
-roupas, expondo o máximo de
-sua pele sensível ao ambiente
-que puder. Seu corpo já está
-repleto de cicatrizes e feri-
-das, muitas causadas por
-você mesmo para sabo-
-rear a dor. Devorar
-qualquer coisa que
-não seja carne ou
-sangue não é capaz
-de conter sua fome. Você
-pode usar Força para calcular seus pontos de esfor-
-ço (em vez de Presença). Além disso, pode gastar
-uma ação de movimento e 1 ou mais PE (limitado
-por sua Força) para recuperar 1d8 PV por PE gasto.
-I MORTE Roupas modernas e complexas não pa-
-recem fazer sentido pra você. Seus trajes são ana-
-crônicos e simples, às vezes adornado de cristais,
-esqueletos de pequenas criaturas pendurados,
-pedras, raízes e plantas mortas. Você recebe
-+O em Intimidação e pode usar Vigor para
-calcular seus pontos de esforço (em vez de
-Presença). Além disso, morre se iniciar
-quatro turnos morrendo na mesma cena
-(e não apenas três) e não precisa mais
-comer ou beber para viver, mas
-ainda sofre da fome para-
-normal causada por essa
-trilha.
-I CONHECIMENTO Você
-está sempre vestindo
-joias de ouro puro
-ou roupas com ouro
-em suas linhas. Seu
-corpo está quase in-
-teiramente coberto de
-palavras que evocam
-medo, como famosas
-últimas frases ou pedi-
-dos de socorro. Você
-já sabe que é superior
-a todos eles. Seu In-
-telecto aumenta em
-+1. Além disso, você
-pode usar Intelecto
-como atributo-chave
-para Enganação e para
-calcular seus pontos de
-esforço (em vez de Pre-
-sença).
-I ENERGIA Você está
-sempre vestindo roupas
-complexas e modernas,
-com luzes brilhantes e
-dispositivos conectados
-a baterias e à sua pele para
-receber pequenos
-choques estimu-
-lantes. Você pode
-usar Agilidade como
-atributo-chave para calcular seus pontos de esforço
-(em vez de Presença). Além disso, quando acerta
-um ataque corpo a corpo, pode gastar 1 ou mais
-PE (limitado por sua Agilidade). Se fizer isso, seu
-ataque causa +1d6 pontos de dano de Energia para
-cada 1 PE gasto.
+* **NEX 10% - Ser Amaldiçoado:** Em suas veias corre uma maldição paranormal que aos poucos o está transformando em um monstro. Você se torna treinado em Ocultismo (se já for treinado, em vez disso recebe +2 nessa perícia). Escolha um elemento paranormal entre Sangue, Morte, Conhecimento ou Energia. Uma vez por dia, você precisa executar uma etapa ritualística desse elemento (por exemplo, beber sangue humano para Sangue, inalar cinzas de mortos para Morte, tatuar palavras que causam medo para Conhecimento ou receber choques de cabos elétricos para Energia). Se fizer isso, até o fim do dia você recebe os efeitos descritos a seguir, conforme o elemento escolhido. Caso contrário, você sofre de fome e sede nesse dia (OPRPG, p. 292). Por fim, se adquirir afinidade com um elemento, deverá escolher aquele selecionado para esta habilidade.
+* * _Sangue:_ Suas presas ficam protuberantes e seus olhos se tornam vermelhos. Você recebe resistência a balístico e Sangue 5 e faro e, quando faz um contra-ataque bem-sucedido, soma seu Vigor na rolagem de dano, mas sofre –1D20 em Ciências e Intuição.
+* * _Morte:_ Você fica pálido e seu metabolismo se torna bem mais lento. Você recebe resistência a perfuração e Morte 5 e imunidade a fadiga e soma sua Força em seu total de pontos de vida, mas sofre –1D20 em Diplomacia e Enganação.
+* * _Conhecimento:_ Seus olhos são banhados em um dourado sobrenatural. Você recebe resistência a balístico e Conhecimento 5 e visão no escuro e soma seu Intelecto na Defesa, mas sofre –1D20 em Atletismo e Acrobacia.
+* * _Energia:_ Sua pele ganha cicatrizes de queimaduras elétricas com múltiplas cores. Você recebe resistência a corte, eletricidade, fogo e Energia 5 e soma sua Agilidade na RD recebida por um bloqueio bem-sucedido, mas sofre –1D20 em Investigação e Percepção.
+* **NEX 40% - Ser Macabro:** Conforme sua humanidade é substituída pela Entidade, as mudanças em seu corpo e mente se intensificam. A resistência a dano que você recebe por executar a etapa ritualística de seu elemento aumenta para 10, enquanto a penalidade em perícias aumenta para –2O. Por fim, quando executa sua etapa ritualística, você recebe os efeitos adicionais incluídos na descrição de seu elemento, a seguir.
+* * _Sangue:_ Você veste poucas roupas, expondo o máximo de sua pele sensível ao ambiente que puder. Seu corpo já está repleto de cicatrizes e feridas, muitas causadas por você mesmo para saborear a dor. Devorar qualquer coisa que não seja carne ou sangue não é capaz de conter sua fome. Você pode usar Força para calcular seus pontos de esforço (em vez de Presença). Além disso, pode gastar uma ação de movimento e 1 ou mais PD (limitado por sua Força) para recuperar 1d8 PV por PD gasto.
+* * _Morte:_ Roupas modernas e complexas não parecem fazer sentido pra você. Seus trajes são anacrônicos e simples, às vezes adornado de cristais, esqueletos de pequenas criaturas pendurados, pedras, raízes e plantas mortas. Você recebe +1D20 em Intimidação e pode usar Vigor para calcular seus pontos de esforço (em vez de Presença). Além disso, morre se iniciar quatro turnos morrendo na mesma cena (e não apenas três) e não precisa mais comer ou beber para viver, mas ainda sofre da fome paranormal causada por essa trilha.
+* * _Conhecimento:_ Você está sempre vestindo joias de ouro puro ou roupas com ouro em suas linhas. Seu corpo está quase inteiramente coberto de palavras que evocam medo, como famosas últimas frases ou pedidos de socorro. Você já sabe que é superior a todos eles. Seu Intelecto aumenta em +1. Além disso, você pode usar Intelecto como atributo-chave para Enganação e para calcular seus pontos de esforço (em vez de Presença).
+* * _Energia:_ Você está sempre vestindo roupas complexas e modernas, com luzes brilhantes e dispositivos conectados a baterias e à sua pele para receber pequenos choques estimulantes. Você pode usar Agilidade como atributo-chave para calcular seus pontos de esforço (em vez de Presença). Além disso, quando acerta um ataque corpo a corpo, pode gastar 1 ou mais PD (limitado por sua Agilidade). Se fizer isso, seu ataque causa +1d6 pontos de dano de Energia para cada 1 PD gasto.
 NEX 65% - Ser Assustador. Como um parasi-
 ta, você sente a Entidade andar por todo o seu
 corpo, fazendo de você uma morada. A
@@ -401,9 +267,6 @@ seguinte, sendo “restaurado” pelo Lodo). Entretanto,
 se for reduzido a 0 PV por dano de fogo ou Energia,
 seu Lodo é destruído e você não retorna à vida. Por
 fim, você aprende o ritual Fim Inevitável.
-#_MAELSTR0M*
-Transfigurado de Caos
-20
 I CONHECIMENTO Sua boca desa-
 pareceu após você costurá-la com
 fios dourados, pois ninguém é digno
@@ -458,8 +321,11 @@ manipular com suas duas mãos.
 ## Especialista
 
 ### Eclético e Perito
+* **Eclético:** você pode gastar 2 PD para fazer um teste em uma perícia como se fosse treinado. Nos níveis do grau de treinamento, você pode gastar 2 PD adicionais para receber o benefício de ter mais um grau de treinamento nela
+* **Perito:** escolha duas perícias. Você pode gastar 2 PD para receber +1 nos testes dessas perícias. Nos níveis 9, 14 e 17, você pode escolher gastar mais uma, duas e três perícias adicionais, respectivamente, e pode escolher gastar +2, +4 e +6 PD para receber um bônus adicional de +1, +2 e +3, respectivamente.
 
 ### Poderes de Especialista
+* **Especialista Paranormal:** toda vez que, subindo de NEx, escolher o poder de NEx Transcender > Aprender um ritual, pode aprender 2 rituais que não sejam de combate
 
 ### Poderes de Trilha
 
