@@ -128,7 +128,7 @@ _Especial: esta trilha usa a “Progressão de NEx”. O personagem recebe todas
 ## Especialista
 
 ### Eclético e Perito
-* **Eclético:** você pode gastar 2 PD para fazer um teste em uma perícia como se fosse treinado. Nos níveis do grau de treinamento, você pode gastar 2 PD adicionais para receber o benefício de ter mais um grau de treinamento nela
+* **Eclético:** você pode gastar 2 PD para fazer um teste em uma perícia como se fosse treinado. Nos níveis do grau de treinamento, você pode gastar 2 PD adicionais para receber o benefício de ter mais um grau de treinamento nela. 
 * **Perito:** escolha duas perícias. Você pode gastar 2 PD para receber +1 nos testes dessas perícias. Nos níveis 9, 14 e 17, você pode escolher gastar mais uma, duas e três perícias adicionais, respectivamente, e pode escolher gastar +2, +4 e +6 PD para receber um bônus adicional de +1, +2 e +3, respectivamente.
 
 ### Poderes de Especialista
