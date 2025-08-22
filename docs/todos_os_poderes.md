@@ -153,13 +153,13 @@ _Especial: esta trilha usa a “Progressão de NEx”. O personagem recebe todas
 ---
 
 # Poderes por Níveis
+
 * **Grau de Treinamento:** No Nível 6, e novamente no Nível 12, escolha um número de perícias treinadas igual a Int (+ 2, se for Combatente; + 5, se for Especialista; + 3, se for Ocultista). Seu grau de treinamento nessas perícias aumenta em um (de treinado para veterano ou de veterano para expert).
 * **Versatilidade:** Em Níveis específicos, você pode escolher entre receber um poder de classe ou um poder de uma trilha que não a sua. A cada Versatilidade, você pode pegar o poder de trilha correspondente (ou seja, no primeiro Versatilidade, você pode pegar o primeiro poder de uma trilha, no segundo Versatilidade, você pode pegar o primeiro ou o segundo poder de uma trilha, e assim por diante. Não é necessário pegar sempre poderes de uma mesma trilha).
 
 ---
 
 # Poderes Gerais
-Poderes gerais são poderes que todos os personagens podem pegar ao aumentar de nível, uma vez cumpridos os pré-requisitos. Também são os poderes escolhidos na hora de montar sua origem.
 
 * **110%:** Teste de perícia **FOR** ou **AGI**, 2 PD = +2 no teste. _Pré-requisito:_ FOR 2 ou AGI 2, Acrobacia ou Atletismo. 
 * **Acostumado ao Extremo:** Ao sofrer dano de fogo, frio ou mental: 1 PD para RD 4. Cada uso adicional na mesma cena custa +1 PD. _Pré-requisito:_ Fortidude.
@@ -266,6 +266,22 @@ Poderes gerais são poderes que todos os personagens podem pegar ao aumentar de 
 ---
 
 # Poderes de NEx
+
+* **Fome do Outro Lado:** Pode consumir partes de criaturas. Até se alimentar novamente de outra criatura, recebe **RD 4** contra o elemento, mas adquire **vulnerabilidade** ao elemento opressor. Ganha **+3% de NEX** e sofre **-1 PD permanente** toda vez que fizer isso.
+* **Envolto em Mistério:** Recebe **+2** em **Enganação** e **Intimidação** contra pessoas não treinadas em Ocultismo (*“virgens do paranormal”*).* **Intuição Paranormal:** 1 vez por cena de investigação, pode substituir teste de investigação por um teste de ocultismo (à escolha).
+* **Deixe os Sussurros Guiarem:** 1 vez por cena, pagando **2 PD** e uma rodada, recebe **+1** em todos os testes de perícias de investigação até o fim da cena. Entretanto, a cada 2 falhas nesses testes, perde **1 PD**.
+* **Nos Olhos do Monstro:** Gastando **3 PD**, encara uma criatura paranormal e recebe **+2** em testes contra ela.
+* **Olhar Sinistro:** Impõe sua própria vontade: pode usar **PRE** no lugar de **INT** para testes de Ocultismo e pode coagir. Também substitui INT por PRE no cálculo de limite de rituais (por exemplo, INT x 3 vira PRE x 3). 
+* **Sentido Premonitório:** monitório. Enquanto seu sentido estiver ativo, você tem um déjà vu do futuro próximo (equivalente auma rodada). Entre outras coisas, você sabe com uma rodada de antecedência quando a urgência de uma investigação vai acabar, se irá ocorrer um evento na investigação e qual será ele (o mestre rola antecipadamente o evento) e sabe quais ações seus inimigos irão tomar em cenas de furtividade e perseguição (essencialmente, você pode decidir suas próprias ações após ver o resultado das rolagens dos demais envolvidos na cena). O mestre pode aprovar outros usos criativos deste poder. Devido à natureza acelerada e caótica de um combate, este poder não tem efeito nestas cenas. Para manter seu sentido ativado, você deve gastar 1 PD no início de cada rodada. 
+* **Sincronia Paranormal:** Pagando **2 PD**, distribui o valor de **PRE d20** entre aliados; pode gastar **1 PD** por rodada para manter o efeito.
+* **As Sombras Dentro de Mim:** Gastando **2 PD**, deixa o paranormal fluir: recebe **+1d20** em **Acrobacia**, **Atletismo** ou **Furtividade** e reduz a visibilidade em **-1**.
+* **Ele me Ensina:** Permite transcender ou adquirir o **primeiro poder de trilha de Ocultista** que não seja o seu.
+* **Racionalidade Inflexível:** Usa **INT** no lugar de **PRE** para testes de **Vontade** e **PD**. _Pré-requisito:_ INT 3, Afinidade I em **Conhecimento**.
+* **Físico Esmagador:** Usa **FOR** no lugar de **PRE** para testes de **Vontade** e **PD**. _Pré-requisito:_ FOR 3, Afinidade I em **Sangue**.
+* **Conjuração Especial:** Pode escolher receber efeitos especiais de um elemento escolhido, aumentando sua categoria em 1 passo. _Pré-requisito:_ Afinidade I. 
+* **Conjuração Natural:** Pode conjurar rituais sem componentes ritualísticos e possui vantagem no teste de ocultismo. _Pré-requisito:_ Afinidade II. 
+* **Transcender:** Ao transcender, você pode pegar um poder paranormal, você também pode **Aprender Rituais**. Nesse caso, o limite de INT x 3 rituais se aplica aqui também, para todas as classes. Ocultistas que quiserem aprender rituais assim, ganham também 3 rituais. Os círculos de rituais seguem de acordo com a progressão de Escolhido do Outro Lado (2º círculo a partir de NEx 20%, etc)
+* **Maldição:** Pode pegar alguma maldição do livro, balanceamento a ser feito conforme escolha do jogador. _Pré-requisito:_ Afinidade II com o elemento. 
 
 ---
 
