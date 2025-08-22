@@ -161,7 +161,7 @@ _Especial: esta trilha usa a “Progressão de NEx”. O personagem recebe todas
 # Poderes Gerais
 Poderes gerais são poderes que todos os personagens podem pegar ao aumentar de nível, uma vez cumpridos os pré-requisitos. Também são os poderes escolhidos na hora de montar sua origem.
 
-* **110%:* Teste de perícia **FOR** ou **AGI**, 2 PD = +2 no teste. _Pré-requisito:_ FOR 2 ou AGI 2, Acrobacia ou Atletismo. 
+* **110%:** Teste de perícia **FOR** ou **AGI**, 2 PD = +2 no teste. _Pré-requisito:_ FOR 2 ou AGI 2, Acrobacia ou Atletismo. 
 * **Acostumado ao Extremo:** Ao sofrer dano de fogo, frio ou mental: 1 PD para RD 4. Cada uso adicional na mesma cena custa +1 PD. _Pré-requisito:_ Fortidude.
 * **Acalentar:** +2 em Religião para acalmar. Ao acalmar, recupera **+1d4 + PRE PD**. _Pré-requisito:_ PRE 2, Religião. 
 * **Acrobático:** **FOR** → **AGI** em Atletismo. Terreno difícil não afeta deslocamento nem impede investida. _Pré-requisito:_ AGI 2, Atletismo. 
@@ -216,245 +216,45 @@ Poderes gerais são poderes que todos os personagens podem pegar ao aumentar de 
 * **Mão Pesada:** +2 em rolagens de dano corpo a corpo.
 * **Mãos no Volante:** Não sofre penalidade em ataques disparados de veículo em movimento. 2 PD = +4 em Pilotagem. _Obs.: pilotagem é um teste muito específico, por isso aumentamos o bônus para destacar esse poder._
 * **Membro de (X):** Hospedagem confortável, transporte e informação em (X) para você e aliados.
-
----
-
-### Mentiroso Nato
-
-Com Enganação, penalidade por mentiras absurdas diminuí em um dado.
-
----
-
-### Mochileiro
-
-+5 no limite de carga.
-
----
-
-### Mutação
-
-RD 2 dano físico (corte, balístico, ect.). +1 em uma perícia apropriada. -1d20 em uma perícia (Diplomacia, Reflexos, Fortitude ou outra apropiada, a critério do mestre).
-
----
-
-### Não é Fantasia, é Cosplay
-
-Disfarce ou Enganação → Artes. +1 em testes relacionados ao cosplay do momento.
-
----
-
-### Observador
-
-Treinado ou +1 em Investigação; adiciona 1/2 INT a Intuição.
-
----
-
-### O Inteligentão
-
-Durante interlúdio de leitura, rola +1 dado (ex.: 1d6 → 2d6).
-
----
-
-### Pai de Pet
-
-Treinado ou +1 em Adestramento; possui aliado iniciante de um tipo.
-
----
-
-### Palavras de Devoção
-
-Treinado ou +1 em Religião; 3 PD + ação completa para orar com até 2 × PRE pessoas. Reduz dano mental em 4 para quem participar.
-
----
-
-### Parceiro
-
-Possui aliado iniciante que obedece ordens e se arrisca para ajudar.
-
----
-
-### Para Bellum
-
-+2 em rolagens de dano com armas de fogo.
-
----
-
-### Patrocinador da Ordem
-
-Limite de crédito acima do normal (o quanto isso é relevante fica a critério do mestre).
-
----
-
-### Patrulha
-
-+2 Defesa.
-
----
-
-### Pensamento Tático
-
-Treinado ou +1 Tática; se passar para analisar terreno, +1 ação para se mover na primeira rodada do próximo combate.
-
----
-
-### Personalidade Esotérica
-
-Treinado ou +1 em Ocultismo; +1d4 PD temporário no início de combate contra criatura.
-
----
-
-### Persuasivo
-
-Treinado ou +1 em Diplomacia; reduz em 2 a penalidade para pedir coisas custosas.
-
----
-
-### Pesquisador Científico
-
-Treinado ou +1 em Ciência; pode substituir Ocultismo ou Sobrevivência para identificar criaturas e animais.
-
----
-
-### Poder da Amizade
-
-Escolha um personagem como melhor amigo. Quando fizerem um teste juntos, ambos recebem +1. Interprete de forma leal.
-
----
-
-### Posição de Combate
-
-No primeiro turno da cena de ação: 2 PD = +1 ação (não pode ser ataque).
-
----
-
-### Primeiros Cuidados
-
-Medicina DT 16. Cura PV igual ao número de sucessos em d6. 1x po dia por pessoa.
-
----
-
-### Processo Otimizado
-
-Teste estendido ou ação para revisar documentos; 2 PD = +2 no teste.
-
----
-
-### Proativo
-
-Quando ajudar, 2 PD = crítico em 19 também. 1x por cena.
-
----
-
-### Provisões de Emergência
-
-1x por missão, renova inventário com base na patente.
-
----
-
-### Rato de Computador
-
-Treinado ou +1 em Tecnologia; hackear, localizar arquivos ou operar dispositivo como ação completa. 1x por cena de investigação, pode procurar pistas sem gastar rodada com Tecnologia.
-
----
-
-### Resposta Rápida
-
-Treinado ou +1 em Reflexos; se falhar em Percepção para não ficar desprevenido, 2 PD para rolar novamente com Reflexos.
-
----
-
-### Saber é Poder
-
-Teste usando INT; 2 PD = +2 no teste.
-
-_Pré-requisito:_ INT 3
-
----
-
-### Saque Rápido
-
-Sacar ou guardar itens como ação livre. Recarregar arma de disparo como ação livre.
-
----
-
-### Sangue Azul
-
-Influência política: tratado com mais leniência pela guarda, pode conseguir audiência com pessoas importantes (fica a critério do mestre e a dependente do contexto da campanha).
-
----
-
-### Selvagem
-
-Imune a doenças e venenos simples. Recuperação de PV nunca abaixo do nível.
-
----
-
-### Sentidos Aguçados
-
-Treinado ou +1 em Percepção; não fica desprevenido. Se errar teste por camuflagem, pode rolar novamente o dado de falha.
-
----
-
-### Sobrevivencialista
-
-Treinadoo ou +1 em Sobrevivência; +1 em testes para resistir a efeitos de clima. Terreno difícil não reduz deslocamento nem impede investida.
-
----
-
-### Sorrateiro
-
-Treinado ou +1 em Furtividade; não sofre penalidade ao andar com deslocamento completo furtivo ou seguir sem esconderijos/movimento.
-
----
-
-### Sortudo
-
-3 PD para rolar teste novamente.
-
----
-
-### Surto Heroico
-
-5 PD = +1 ação (pode ser ataque, sem desvantagem).
-
----
-
-### Talentoso
-
-Treinado ou +1 em Artes; +1 para cada sucesso além do necessário no teste.
-
----
-
-### Teimosia Obstinada
-
-Treinado ou +1 em Vontade; resistir para causar condição mental, 2 PD = +2 no teste.
-
----
-
-### Tenacidade
-
-Treinado ou +1 em Fortitude; teste para evitar número de sucessos de feridas (1x por missão).
-
----
-
-### Técnica Medicinal
-
-Quando cura um personagem (exceto paranormal), adiciona INT à cura.
-
----
-
-### Terapia
-
-Pode usar Profissão no lugar de Diplomacia. Se você ou aliado falhar em resistência contra dano mental, 2 PD para testar Profissão e substituir o resultado.
-
----
-
-### Tiro Certeiro
-
-Com arma de disparo, adiciona AGI na rolagem de dano e ignora penalidade contra alvos engajados corpo a corpo.
-
----
-
+* **Mentiroso Nato:** Com Enganação, penalidade por mentiras absurdas diminuí em um dado.
+* **Mochileiro:** +5 no limite de carga.
+* **Mutação:** RD 2 dano físico (corte, balístico, ect.). +1 em uma perícia apropriada. -1d20 em uma perícia (Diplomacia, Reflexos, Fortitude ou outra apropiada, a critério do mestre).
+* **Não é Fantasia, é Cosplay:** Disfarce ou Enganação → Artes. +1 em testes relacionados ao cosplay do momento.
+* **Observador:** Treinado ou +1 em Investigação; adiciona 1/2 INT a Intuição.
+* **O Inteligentão:** Durante interlúdio de leitura, rola +1 dado (ex.: 1d6 → 2d6).
+* **Pai de Pet:** Treinado ou +1 em Adestramento; possui aliado iniciante de um tipo.
+* **Palavras de Devoção:** Treinado ou +1 em Religião; 3 PD + ação completa para orar com até 2 × PRE pessoas. Reduz dano mental em 4 para quem participar.
+* **Parceiro:** Possui aliado iniciante que obedece ordens e se arrisca para ajudar.
+* **Para Bellum:** +2 em rolagens de dano com armas de fogo.
+* **Patrocinador da Ordem:** Limite de crédito acima do normal (o quanto isso é relevante fica a critério do mestre).
+* **Patrulha:** +2 Defesa.
+* **Pensamento Tático:** Treinado ou +1 Tática; se passar para analisar terreno, +1 ação para se mover na primeira rodada do próximo combate.
+* **Personalidade Esotérica:** Treinado ou +1 em Ocultismo; +1d4 PD temporário no início de combate contra criatura.
+* **Persuasivo:** Treinado ou +1 em Diplomacia; reduz em 2 a penalidade para pedir coisas custosas.
+* **Pesquisador Científico:** Treinado ou +1 em Ciência; pode substituir Ocultismo ou Sobrevivência para identificar criaturas e animais.
+* **Poder da Amizade:** Escolha um personagem como melhor amigo. Quando fizerem um teste juntos, ambos recebem +1. Interprete de forma leal.
+* **Posição de Combate:** No primeiro turno da cena de ação: 2 PD = +1 ação (não pode ser ataque).
+* **Primeiros Cuidados:** Medicina DT 16. Cura PV igual ao número de sucessos em d6. 1x po dia por pessoa.
+* **Processo Otimizado:** Teste estendido ou ação para revisar documentos; 2 PD = +2 no teste.
+* **Proativo:** Quando ajudar, 2 PD = crítico em 19 também. 1x por cena.
+* **Provisões de Emergência:** 1x por missão, renova inventário com base na patente.
+* **Rato de Computador:** Treinado ou +1 em Tecnologia; hackear, localizar arquivos ou operar dispositivo como ação completa. 1x por cena de investigação, pode procurar pistas sem gastar rodada com Tecnologia.
+* **Resposta Rápida:** Treinado ou +1 em Reflexos; se falhar em Percepção para não ficar desprevenido, 2 PD para rolar novamente com Reflexos.
+* **Saber é Poder:** Teste usando INT; 2 PD = +2 no teste._Pré-requisito:_ INT 3. 
+* **Saque Rápido:** Sacar ou guardar itens como ação livre. Recarregar arma de disparo como ação livre.
+* **Sangue Azul:** Influência política: tratado com mais leniência pela guarda, pode conseguir audiência com pessoas importantes (fica a critério do mestre e a dependente do contexto da campanha).
+* **Selvagem:** Imune a doenças e venenos simples. Recuperação de PV nunca abaixo do nível.
+* **Sentidos Aguçados:** Treinado ou +1 em Percepção; não fica desprevenido. Se errar teste por camuflagem, pode rolar novamente o dado de falha.
+* **Sobrevivencialista:** Treinadoo ou +1 em Sobrevivência; +1 em testes para resistir a efeitos de clima. Terreno difícil não reduz deslocamento nem impede investida.
+* **Sorrateiro:** Treinado ou +1 em Furtividade; não sofre penalidade ao andar com deslocamento completo furtivo ou seguir sem esconderijos/movimento.
+* **Sortudo:** 3 PD para rolar teste novamente.
+* **Surto Heroico:** 5 PD = +1 ação (pode ser ataque, sem desvantagem).
+* **Talentoso:** Treinado ou +1 em Artes; +1 para cada sucesso além do necessário no teste.
+* **Teimosia Obstinada:** Treinado ou +1 em Vontade; resistir para causar condição mental, 2 PD = +2 no teste.
+* **Tenacidade:** Treinado ou +1 em Fortitude; teste para evitar número de sucessos de feridas (1x por missão).
+* **Técnica Medicinal:** Quando cura um personagem (exceto paranormal), adiciona INT à cura.
+* **Terapia:** Pode usar Profissão no lugar de Diplomacia. Se você ou aliado falhar em resistência contra dano mental, 2 PD para testar Profissão e substituir o resultado.
+* **Tiro Certeiro:** Com arma de disparo, adiciona AGI na rolagem de dano e ignora penalidade contra alvos engajados corpo a corpo.
 * **Traços do Outro Lado:** Poder paranormal à escolha, mas começa com metade dos PD (apenas inicial).
 * **Treinamento em Perícia:** Escolha duas perícias. Você se torna treinado nessas perícias. A partir de Nv 7, você pode escolher perícias nas quais já é treinado para se tornar veterano. A partir de Nv 14, pode escolher perícias nas quais já é veterano para se tornar expert. Você pode escolher este poder várias vezes.
 * **Truque de Mágica:** 2 PD + teste de Enganação, Artes ou perícia apropriada para lançar efeito semelhante a **Enfeitiçar**.
