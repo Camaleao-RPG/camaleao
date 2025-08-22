@@ -58,7 +58,7 @@
 * **Nv 15 - Sempre Alerta:** Você recebe uma ação padrão adicional no início de cada cena de combate.
 
 #### Tropa de Choque
-* * NEX 10% - Casca Grossa. Você recebe +1 PV para
+* NEX 10% - Casca Grossa. * * Você recebe +1 PV para
 cada 5% de NEX e, quando faz um bloqueio, soma
 seu Vigor na resistência a dano recebida.
 NEX 40% - Cai Dentro. Sempre que um oponen-
