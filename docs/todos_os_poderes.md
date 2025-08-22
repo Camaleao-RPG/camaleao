@@ -153,7 +153,7 @@ _Especial: esta trilha usa a “Progressão de NEx”. O personagem recebe todas
 ---
 
 # Poderes por Níveis
-* **Grau de Treinamento:** No Nível 6, e novamente no Nível 12, escolha um número de perícias treinadas igual a 2 + Int. Seu grau de treinamento nessas perícias aumenta em um (de treinado para veterano ou de veterano para expert).
+* **Grau de Treinamento:** No Nível 6, e novamente no Nível 12, escolha um número de perícias treinadas igual a Int (+ 2, se for Combatente; + 5, se for Especialista; + 3, se for Ocultista). Seu grau de treinamento nessas perícias aumenta em um (de treinado para veterano ou de veterano para expert).
 * **Versatilidade:** Em Níveis específicos, você pode escolher entre receber um poder de classe ou um poder de uma trilha que não a sua. A cada Versatilidade, você pode pegar o poder de trilha correspondente (ou seja, no primeiro Versatilidade, você pode pegar o primeiro poder de uma trilha, no segundo Versatilidade, você pode pegar o primeiro ou o segundo poder de uma trilha, e assim por diante. Não é necessário pegar sempre poderes de uma mesma trilha).
 
 ---
