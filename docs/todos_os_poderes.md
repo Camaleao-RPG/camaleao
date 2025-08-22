@@ -33,7 +33,7 @@
 
 ### Poderes de Trilha
 
-AGENTE SECRETO
+### Agente Secreto
 * **Nv 2 - Carteirada:** Escolha uma perícia entre Diplomacia ou Enganação. Você recebe treinamento na perícia escolhida ou, se já for treinado, recebe +2 nela. Como parte do esforço conjunto da sua agência e da Ordem, no início de cada missão você recebe documentos que lhe fornecem privilégios jurídicos especiais. Esses documentos podem incluir a sua identidade verdadeira ou não, e podem ser individuais ou incluir os demais membros da sua equipe (conforme apropriado à missão). Os benefícios específicos desses documentos ficam a critério do mestre, mas em geral incluem acesso a locais restritos ou proibidos, permissão para portar armas de fogo e autoridade para assumir a jurisdição de investigações da polícia. Pessoas comuns não conseguem perceber que seus documentos são falsos, mas membros de agências de segurança ou indivíduos veteranos em Crime podem desconfiar de sua veracidade. Os documentos contam como itens operacionais que não ocupam espaço — mas cuidado para não perdê-los em locais onde novos não podem ser fornecidos!
 * **Nv 7 - O Sorriso:** Você recebe +2 em Diplomacia e Enganação e, quando falha em um teste de uma dessas perícias, pode gastar 2 PD para repetir a rolagem (apenas uma vez por teste), mas deve aceitar o novo resultado, mesmo que seja pior que o primeiro. Por fim, uma vez por cena, você pode fazer um teste de Diplomacia para acalmar a si mesmo.
 * **Nv 11 - Método Investigativo:** A urgência de qualquer cena de investigação em que você esteja presente aumenta em 1 rodada. Além disso, quando o mestre faz uma rolagem na tabela de eventos de investigação, você pode gastar 2 PD para transformar o resultado em “sem evento”. Você pode usar este efeito mais de uma vez na mesma cena, mas a cada uso adicional seu custo aumenta em +2 PD.
@@ -73,7 +73,7 @@ AGENTE SECRETO
 * **Nv 11 - Duro de Matar:** Ao sofrer dano não paranormal, você pode gastar uma reação e 2 PD para reduzir esse dano à metade. Em Nv 17, você pode usar esta habilidade para reduzir dano paranormal.
 * **Nv 15 - Inquebrável:** Enquanto estiver machucado, você recebe +5 na Defesa e resistência a dano 5. Enquanto estiver morrendo, em vez do normal, você não fica indefeso e ainda pode realizar ações. Você ainda segue as regras de morte normalmente.
 
-CAÇADOR
+### Caçador
 NEX 10% - Rastrear o Paranormal. Você es-
 tudou criaturas paranormais o suficiente para saber
 como identificar seus sinais e seguir seus rastros.
@@ -142,39 +142,9 @@ multiplicador de crítico e re-
 sistência a dano 5. Você só
 pode ter um tipo de ser como
 presa ao mesmo tempo.
-MONSTRUOSO
-Muito se fala sobre os ocul-
-tistas escolherem o caminho de
-tornarem sua mente uma porta
-para o paranormal, na tentativa de usá-
--lo contra ele mesmo, mas de vez em
-quando, um combatente é corajoso
-ou insano o bastante para fazer o
-mesmo com seu corpo. Você pro-
-positalmente desfigura e altera
-seu corpo para que as Entida-
-des o invadam com maior in-
-tensidade; contudo, para sua
-infelicidade, os métodos
-para isso costumam ser
-brutais. Combatentes
-dessa trilha que che-
-gam aos níveis mais
-altos de exposição
-inevitavelmente
-perdem o controle
-e se tornam inimigos
-da Ordem.
-RAZIEL
-Vampiro de Sangue
-Especial: esta trilha usa a “Progressão de NEX”
-apresentada na regra opcional Nível de Experiência
-e Nível de Exposição (p. 98), mesmo que esta regra
-em si não esteja sendo usada. O personagem recebe
-todas as alterações apropriadas ao seu NEX descritas
-na progressão e, se a regra de Nível de Experiência
-estiver em uso, recebe o dobro de NEX sempre que
-se expõe ao paranormal.
+
+### Monstruoso
+_Especial: esta trilha usa a “Progressão de NEx”. O personagem recebe todas as alterações apropriadas ao seu NEX descritas na progressão e, se a regra de Nível de Experiência estiver em uso, recebe o dobro de NEX sempre que se expõe ao paranormal._
 NEX 10% - Ser Amaldiçoado. Em suas veias corre
 uma maldição paranormal que aos poucos o está
 transformando em um monstro. Você se torna
