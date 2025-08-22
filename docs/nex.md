@@ -28,18 +28,14 @@ Foi adicionado uma nova progressão de personagem baseada em NEx.
 | 95    | Poder de NEx                                | -1 atributo     |
 | 99    | Transformação                               | Perda de Si     |
 
-### Afinidade
+### Afinidade & Vulnerabilidade
 
-A afinidade agora é medida em estágios e é usada como pré-requisito para alguns poderes. Afinidade I te dá Vulnerabilidade I e Afinidade II te dá Vulnerabilidade II. Em afinidade II, você não precisa de componentes pra conjurar rituais desse elemento e ganha +1d20 no teste de Ocultismo.
+A Afinidade agora é medida em estágios e é usada como pré-requisito para alguns poderes. Afinidade I te dá Vulnerabilidade I e Afinidade II te dá Vulnerabilidade II.
 
-### Vulnerabilidade
-
-A vulnerabilidade também é dividida em estágios, buscando balancear as mazelas.
-
-| Estágio | Efeito                                                                                           |
-| ------- | ------------------------------------------------------------------------------------------------ |
-| I       | Desvantagem em testes de resistência contra efeitos de **medo** de ameaças do elemento opressor. |
-| II      | Desvantagem em **todos** os testes contra efeitos do elemento opressor. |
+| Estágio | Efeito Positivo (Afinidade) | Efeito Negativo (Vulnerabilidade)                                                                                   |
+| ------- | ----------------------------------------------- | ------------------------------------------------- |
+| I       | Cumpre o requerimento de "Afinidade" para poderes e rituais (a menos que o requerimento seja explicitamente "Afinidade II"). | Desvantagem em testes de resistência contra efeitos de **medo** de ameaças do elemento opressor. |
+| II      | não precisa de componentes pra conjurar rituais desse elemento e ganha +1d20 no teste de Ocultismo. |Desvantagem em **todos** os testes contra efeitos do elemento opressor. |
 
 ---
 
