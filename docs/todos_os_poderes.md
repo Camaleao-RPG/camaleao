@@ -2,7 +2,7 @@
 
 ## Combatente
 
-## Ataque Especial
+### Ataque Especial
 
 ### Poderes de Combatente
 * **Apego Angustiado:** Não importa o quão profundos sejam seus ferimentos, você escolhe a agonia enlouquecedora da dor a perder a consciência diante da própria morte. Você não fica inconsciente por estar morrendo, mas sempre que terminar uma rodada nesta condição e consciente, perde 1 ponto de Determinação.
