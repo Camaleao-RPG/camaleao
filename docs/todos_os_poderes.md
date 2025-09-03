@@ -146,7 +146,7 @@ _Especial: esta trilha usa a “Progressão de NEx”. O personagem recebe todas
 
 ## Sobrevivente
 
-### Empenho
+### Empenho e Cicatrizado
 
 ### Poderes de Trilha
 
