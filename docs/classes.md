@@ -38,14 +38,15 @@ Em geral, a nova evolução de classes segue esse padrão:
 
 ## Combatente
 
-PV Inicial: 24 + VIG
-PD Inicial: 12 + PRE
+**PV Inicial:** 24 + VIG
 
-Essa classe não pode aprender rituais sem ser por Transcender ou por habilidades específicas (de trilha, de NEx… etc)
+**PD Inicial:** 12 + PRE
+
+**Perícias:** 2 + INT perícias _(porque 1 + INT para uma classe que, tendencialmente, não vai ter muitas perícias é sacanagem)_
+
+Essa classe não pode aprender rituais sem ser por Transcender ou por habilidades específicas (de trilha, de NEx… etc).
 
 Para diversificar a classe de combatente e tentar deixar ela menos "ovô gastar PD pra dar mais dano", vamos mudar a habilidade do Ataque Especial para um esquema parecido com o Golpe Pessoal, do guerreiro de Tormenta 20:
-
-* **Perícias:** mais uma perícia pois 1 + INT para uma classe que, tendencialmente, não vai ter muitas perícias é sacanagem
 
 * **Ataque Especial:** você pode montar um ataque com alguns efeitos especiais que aumentam ou reduzem seu custo de PD. O custo mínimo de um ataque especial é 1 PD. Cada ataque especial pertence a uma arma específica. Ao subir de nível, você pode redefinir seus ataques especiais
 
@@ -77,14 +78,15 @@ Para diversificar a classe de combatente e tentar deixar ela menos "ovô gastar 
 
 ## Especialista
 
-PV Inicial: 20 + VIG
-PD Inicial: 16 + PRE
+**PV Inicial:** 20 + VIG
 
-Essa classe não pode aprender rituais sem ser por Transcender ou por habilidades específicas (de trilha, de NEx… etc)
+**PD Inicial:** 16 + PRE
+
+Essa classe não pode aprender rituais sem ser por Transcender ou por habilidades específicas (de trilha, de NEx… etc).
 
 Tendo em vista as mudanças no sistema de rolagem de dados, fizemos algumas alterações nas habilidades do especialista:
 
-* **Eclético:** você pode gastar 2 PD para fazer um teste em uma perícia como se fosse treinado. Nos níveis do grau de treinamento, você pode gastar 2 PD adicionais para receber o benefício de ter mais um grau de treinamento nela
+* **Eclético:** você pode gastar 2 PD para fazer um teste em uma perícia **como se fosse treinado. Nos níveis do grau de treinamento, você pode gastar 2 PD adicionais para receber o benefício de ter mais um grau de treinamento nela
 * **Perito:** escolha duas perícias. Você pode gastar 2 PD para receber +1 nos testes dessas perícias. Nos níveis 9, 14 e 17, você pode escolher gastar mais uma, duas e três perícias adicionais, respectivamente, e pode escolher gastar +2, +4 e +6 PD para receber um bônus adicional de +1, +2 e +3, respectivamente.
 
 **NOVOS PODERES DE CLASSE**
@@ -94,8 +96,9 @@ Tendo em vista as mudanças no sistema de rolagem de dados, fizemos algumas alte
 
 ## Ocultista
 
-PV Inicial: 16 + VIG
-PD Inicial: 20 + PRE
+**PV Inicial:** 16 + VIG
+
+**PD Inicial:** 20 + PRE
 
 A habilidade "Escolhido pelo Outro Lado" progride com base no NEx, não no nível, para desbloquear novos círculos de rituais (2º Círculo em 20%, 3º Círculo em 45% e 4º Círculo em 70%). 
 
