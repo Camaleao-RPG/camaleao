@@ -5,34 +5,34 @@ De maneira geral, é mantido o esqueleto das 3 classes principais: Combatente, E
 Em geral, a nova evolução de classes segue esse padrão:
 * Empenho (habilidade do Mundano/Sobrevivente) para todos
 * Um poder de classe ou geral a cada evolução de nível
-* Habilidades específicas de classe nos níveis 1, 4, 9, 14 e 19
+* Habilidades específicas de classe no nível 1, sendo que cada uma tem sua progressão particular
 * Desbloqueia poderes de trilha nos níveis 2, 7, 11 e 15
-* Versatilidade nos níveis 9, 12, 17 e 19 *(não precisam seguir a mesma trilha, desde que não haja uma dependência do 2º poder para o 1º poder de uma mesma trilha)*
+* Versatilidade nos níveis 9, 13, 17 e 20 *(não precisam seguir a mesma trilha, desde que não haja uma dependência do 2º poder para o 1º poder de uma mesma trilha)*
 * Grau de treinamento nos níveis 6 e 12
 * Aumento de atributo nos níveis 4, 10, 14 e 19
 
-| Nível | Habilidades                                                                                                    |
-| ----- | -------------------------------------------------------------------------------------------------------------- |
-| 1     | Poder de classe ou geral; Habilidade específica de classe; Empenho                                             |
-| 2     | Poder de classe ou geral; Desbloqueio de poder de trilha                                                       |
-| 3     | Poder de classe ou geral                                                                                       |
-| 4     | Poder de classe ou geral; Habilidade específica de classe; Aumento de atributo                                 |
-| 5     | Poder de classe ou geral                                                                                       |
-| 6     | Poder de classe ou geral; Grau de treinamento                                                                  |
-| 7     | Poder de classe ou geral; Desbloqueio de poder de trilha                                                       |
-| 8     | Poder de classe ou geral                                                                                       |
-| 9     | Poder de classe ou geral; Habilidade específica de classe; Versatilidade                                       |
-| 10    | Poder de classe ou geral; Aumento de atributo                                                                  |
-| 11    | Poder de classe ou geral; Desbloqueio de poder de trilha                                                       |
-| 12    | Poder de classe ou geral; Versatilidade; Grau de treinamento                                                   |
-| 13    | Poder de classe ou geral                                                                                       |
-| 14    | Poder de classe ou geral; Habilidade específica de classe; Aumento de atributo                                 |
-| 15    | Poder de classe ou geral; Desbloqueio de poder de trilha                                                       |
-| 16    | Poder de classe ou geral                                                                                       |
-| 17    | Poder de classe ou geral; Versatilidade                                                                        |
-| 18    | Poder de classe ou geral                                                                                       |
-| 19    | Poder de classe ou geral; Habilidade específica de classe; Versatilidade; Aumento de atributo                  |
-| 20    | Poder de classe ou geral                                                                                       |
+| Nível | Habilidades                                                          |
+| ----- | -------------------------------------------------------------------- |
+| 1     | Poder de classe ou geral; Habilidade específica de classe; Empenho   |
+| 2     | Poder de classe ou geral; Poder de trilha                            |
+| 3     | Poder de classe ou geral                                             |
+| 4     | Poder de classe ou geral; Aumento de atributo                        |
+| 5     | Poder de classe ou geral                                             |
+| 6     | Poder de classe ou geral; Grau de treinamento                        |
+| 7     | Poder de classe ou geral; Poder de trilha                            |
+| 8     | Poder de classe ou geral                                             |
+| 9     | Poder de classe ou geral; Versatilidade                              |
+| 10    | Poder de classe ou geral; Aumento de atributo                        |
+| 11    | Poder de classe ou geral; Poder de trilha                            |
+| 12    | Poder de classe ou geral                                             |
+| 13    | Poder de classe ou geral; Versatilidade                              |
+| 14    | Poder de classe ou geral; Aumento de atributo                        |
+| 15    | Poder de classe ou geral; Poder de trilha                            |
+| 16    | Poder de classe ou geral                                             |
+| 17    | Poder de classe ou geral; Versatilidade                              |
+| 18    | Poder de classe ou geral                                             |
+| 19    | Poder de classe ou geral; Aumento de atributo                        |
+| 20    | Poder de classe ou geral; Versatilidade                              |
 
 ---
 
