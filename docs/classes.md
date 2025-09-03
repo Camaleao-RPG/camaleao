@@ -78,7 +78,7 @@ Para diversificar a classe de combatente e tentar deixar ela menos "ovô gastar 
 ## Especialista
 
 PV Inicial: 20 + VIG
-PD Inicial: 16 + (2 x PRE)
+PD Inicial: 16 + PRE
 
 Essa classe não pode aprender rituais sem ser por Transcender ou por habilidades específicas (de trilha, de NEx… etc)
 
@@ -95,7 +95,7 @@ Tendo em vista as mudanças no sistema de rolagem de dados, fizemos algumas alte
 ## Ocultista
 
 PV Inicial: 16 + VIG
-PD Inicial: 17 + (2 x PRE)
+PD Inicial: 20 + PRE
 
 A habilidade "Escolhido pelo Outro Lado" progride com base no NEx, não no nível, para desbloquear novos círculos de rituais (2º Círculo em 20%, 3º Círculo em 45% e 4º Círculo em 70%). 
 
